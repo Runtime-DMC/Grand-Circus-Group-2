@@ -1,321 +1,183 @@
-,title,jobage,salary,jobtype,location,description
-0,Data Science Statistician,30+ days ago,,Data Science Statistician,"Boston, MA","
-            This person will work closely with wet lab scientists to generate, analyze, and interpret large-scale datasets using various analytical and computational tools for <b>data</b> analysis and integration, network prediction, pathway analysis, and machine learning.
-        "
-1,Data Science Manager,30+ days ago,,Data Science Manager,US National,"
-            Leads a <b>data</b> <b>science</b> team that builds machine learning <b>data</b> models and algorithms to optimize products and processes. Recommends solutions to <b>data</b> <b>science</b> problems. Hire, promote, discipline, and terminate subordinate employees, or suggest and...
-        "
+,title,jobage,salary,description,jobtype,location
+0,Data Science Statistician,30+ days ago,,"This person will work closely with wet lab scientists to generate, analyze, and interpret large-scale datasets using various analytical and computational tools fordataanalysis and integration, network prediction, pathway analysis, and machine learning.",Data Science Statistician,"Boston, MA"
+1,Data Science Manager,30+ days ago,,"Leads adatascienceteam that builds machine learningdatamodels and algorithms to optimize products and processes. Recommends solutions todatascienceproblems. Hire, promote, discipline, and terminate subordinate employees, or suggest and...",Data Science Manager,US National
 2,Data Science Consultant,"New!
-                6 days ago",,Data Science Consultant,US National,"
-            Drive end-to-end <b>Data</b> <b>Science</b> and AI projects/programs. Work on <b>Data</b> <b>Science</b> and AI offerings. Take active part in growing team's capacity and capability, including building new competencies, selecting and mentoring new team members.
-        "
-3,"Director, Data Science Operations",22 days ago,,"Director, Data Science Operations",US National,"
-            This expert will set up processes and infrastructure including using machine learning to monitor the quality of EMR and integrated third-party <b>data</b> such as claims <b>data</b> which are utilized by AI/DS. MS degree and 5+ years of supervisory experience. Hybrid.
-        "
-4,"Instructor, Data Science",30+ days ago,,"Instructor, Data Science",US National,"
-            Managing regular communication with students to align on progress, expectations, celebrate milestones and address concern areas. Providing constructive and timely feedback to students in the cohort. 2+ years of experience in the field of <b>Data</b> <b>science</b>...
-        "
+                6 days ago",,"Drive end-to-endDataScienceand AI projects/programs. Work onDataScienceand AI offerings. Take active part in growing team's capacity and capability, including building new competencies, selecting and mentoring new team members.",Data Science Consultant,US National
+3,"Director, Data Science Operations",22 days ago,,This expert will set up processes and infrastructure including using machine learning to monitor the quality of EMR and integrated third-partydatasuch as claimsdatawhich are utilized by AI/DS. MS degree and 5+ years of supervisory experience. Hybrid.,"Director, Data Science Operations",US National
+4,"Instructor, Data Science",30+ days ago,,"Managing regular communication with students to align on progress, expectations, celebrate milestones and address concern areas. Providing constructive and timely feedback to students in the cohort. 2+ years of experience in the field ofDatascience...","Instructor, Data Science",US National
 5,"Data Science, Director","New!
-                3 days ago",,"Data Science, Director",US National,"
-            Building and managing <b>Data</b> <b>Science</b> teams through managers of managers. Strong track record leading a high-performing team through ambiguity. Maintain a high bar in terms of product thinking and analytical depth for your team through selective hiring...
-        "
+                3 days ago",,Building and managingDataScienceteams through managers of managers. Strong track record leading a high-performing team through ambiguity. Maintain a high bar in terms of product thinking and analytical depth for your team through selective hiring...,"Data Science, Director",US National
 6,Data Science Associate,"New!
-                4 days ago",,Data Science Associate,"Lugano, Switzerland","
-            Participating, for <b>data</b> engineering related task, into development, test, and refinement of <b>data</b> models using multiple types of <b>data</b> for various purposes such as imputation and <b>data</b> correction. Participating into processes set-up for new algorithms...
-        "
-7,"Director, Data Science",30+ days ago,,"Director, Data Science",US National,"
-            Produce analysis, machine learning solutions, and scalable <b>data</b> practices. You'll have the opportunity to significantly impact internal <b>data</b> consumption and decision making. We are a passionate team with a deeply analytical mindset, and your work will...
-        "
-8,Director of Data Science,3 weeks ago,,Director of Data Science,Work from Anywhere,"
-            Manage relationships with different stakeholders ranging from external economics researchers and global health funders to internal operation teams. Translate ambiguous stakeholder desires into concrete requirements and action plans (in some cases by...
-        "
-9,Manager of Data Science,24 days ago,,Manager of Data Science,"CA, New York, NY","
-            Collaborate with the senior operations team to prioritize projects against short-term and long-term objectives. Manage the development of production forecasts and plans, supply inventory models for our network of 5,000+ locations, warehouse...
-        "
-10,"Director, Customer Data Science",30+ days ago,,"Director, Customer Data Science",US National,"
-            Lead the Growth <b>Data</b> <b>Science</b> team focusing on evolving the company's customer segmentation, developing targeting strategies, and driving growth strategy across marketing channels. Enrich customer <b>data</b> and develop user scores / propensity models in...
-        "
-11,Science Planner,15 days ago,,Science Planner,US National,"
-            Manage and assist in support execution and modification of resource requirements and schedules through the evolution of <b>science</b> project. Allocate out-year logistical resources, such as research vessel, helicopter, and aircraft schedules.
-        "
+                4 days ago",,"Participating, fordataengineering related task, into development, test, and refinement ofdatamodels using multiple types ofdatafor various purposes such as imputation anddatacorrection. Participating into processes set-up for new algorithms...",Data Science Associate,"Lugano, Switzerland"
+7,"Director, Data Science",30+ days ago,,"Produce analysis, machine learning solutions, and scalabledatapractices. You'll have the opportunity to significantly impact internaldataconsumption and decision making. We are a passionate team with a deeply analytical mindset, and your work will...","Director, Data Science",US National
+8,Director of Data Science,3 weeks ago,,Manage relationships with different stakeholders ranging from external economics researchers and global health funders to internal operation teams. Translate ambiguous stakeholder desires into concrete requirements and action plans (in some cases by...,Director of Data Science,Work from Anywhere
+9,Manager of Data Science,24 days ago,,"Collaborate with the senior operations team to prioritize projects against short-term and long-term objectives. Manage the development of production forecasts and plans, supply inventory models for our network of 5,000+ locations, warehouse...",Manager of Data Science,"CA, New York, NY"
+10,"Director, Customer Data Science",30+ days ago,,"Lead the GrowthDataScienceteam focusing on evolving the company's customer segmentation, developing targeting strategies, and driving growth strategy across marketing channels. Enrich customerdataand develop user scores / propensity models in...","Director, Customer Data Science",US National
+11,Science Planner,15 days ago,,"Manage and assist in support execution and modification of resource requirements and schedules through the evolution ofscienceproject. Allocate out-year logistical resources, such as research vessel, helicopter, and aircraft schedules.",Science Planner,US National
 12,Data Science Manager. Borrowing,"New!
-                4 days ago",,Data Science Manager. Borrowing,"London, United Kingdom","
-            Be a key leader in building a discipline of exceptional <b>data</b> scientists working on making world class at tackling product problems. Help hire, develop and retain talented <b>Data</b> Scientists. Support smaller Borrowing squads by generating insights and run...
-        "
-13,Senior Data Science QA Engineer,24 days ago,,Senior Data Science QA Engineer,US National,"
-            Responsible for ensuring the quality and reliability of our <b>data</b> <b>science</b> projects through the creation and execution of automated tests. The ideal candidate should have experience working in a <b>data</b> <b>science</b> or analytics environment as well as a deep...
-        "
-14,Data Science Admissions Specialist,22 days ago,,Data Science Admissions Specialist,US National,"
-            Conduct technical screenings (similar format to technical phone screens at top tier tech companies). Evaluate prospective candidate's technical performances based on internal technical grading rubric. Identify whether candidates are a good fit for...
-        "
+                4 days ago",,"Be a key leader in building a discipline of exceptionaldatascientists working on making world class at tackling product problems. Help hire, develop and retain talentedDataScientists. Support smaller Borrowing squads by generating insights and run...",Data Science Manager. Borrowing,"London, United Kingdom"
+13,Senior Data Science QA Engineer,24 days ago,,Responsible for ensuring the quality and reliability of ourdatascienceprojects through the creation and execution of automated tests. The ideal candidate should have experience working in adatascienceor analytics environment as well as a deep...,Senior Data Science QA Engineer,US National
+14,Data Science Admissions Specialist,22 days ago,,Conduct technical screenings (similar format to technical phone screens at top tier tech companies). Evaluate prospective candidate's technical performances based on internal technical grading rubric. Identify whether candidates are a good fit for...,Data Science Admissions Specialist,US National
 15,"Principal Statistical Programmer, Data Science Systems","New!
-                6 days ago",,"Principal Statistical Programmer, Data Science Systems","Canada, or US National","
-            Perform the role of the Lead Statistical Programmer. Plan, execute and oversee all programming activities on a study, including but not limited to, resource estimation, working within budget, meeting timelines, maximizing quality, interaction with...
-        "
-16,"Senior Manager, Customer Data Science",28 days ago,,"Senior Manager, Customer Data Science",US National,"
-            Lead the Customer <b>Data</b> <b>Science</b> team focusing on evolving Etsy's customer segmentation, developing targeting strategies, and driving growth strategy across marketing channels. Enrich customer <b>data</b> and develop user scores / propensity models.
-        "
-17,Senior Data Science Engineer,29 days ago,,Senior Data Science Engineer,"Canada, or US National","
-            Leads software development, collaborates on new features, implements unit tests, mentors engineers, and manages expectations. Requires five or more years' software engineering experience as well as English fluency. Remote position.
-        "
+                6 days ago",,"Perform the role of the Lead Statistical Programmer. Plan, execute and oversee all programming activities on a study, including but not limited to, resource estimation, working within budget, meeting timelines, maximizing quality, interaction with...","Principal Statistical Programmer, Data Science Systems","Canada, or US National"
+16,Senior Data Science Engineer,29 days ago,,"Leads software development, collaborates on new features, implements unit tests, mentors engineers, and manages expectations. Requires five or more years' software engineering experience as well as English fluency. Remote position.",Senior Data Science Engineer,"Canada, or US National"
+17,"Senior Manager, Customer Data Science",28 days ago,,"Lead the CustomerDataScienceteam focusing on evolving Etsy's customer segmentation, developing targeting strategies, and driving growth strategy across marketing channels. Enrich customerdataand develop user scores / propensity models.","Senior Manager, Customer Data Science",US National
 18,"Director of Data Science, Operations","New!
-                6 days ago",,"Director of Data Science, Operations",United Kingdom,"
-            You'll be in charge of leading the team responsible for optimizing operations - from ensuring we can accurately forecast and schedule our customer support agents, to supporting a culture of experiment-led outcomes among our product squads. Remote work. 
-        "
-19,"Director of Data Science, Portfolio Management",11 days ago,,"Director of Data Science, Portfolio Management","US National (Not hiring in CA, CO, NY, WA)","
-            You have experience applying <b>data</b> <b>science</b> to credit risk management and are excited to optimize a multi-billion dollar portfolio that's growing every day. You want to help improve the financial health of the 100 million working-class Americans who live...
-        "
-20,"Software Engineer - Data Science Engineering, Core Data",30+ days ago,,"Software Engineer - Data Science Engineering, Core Data",US National,"
-            Work closely with various cross-functional teams to develop and deliver tools or <b>data</b> structures to measure, optimize and scale our product offerings. Perform all of the necessary <b>data</b> transformations to serve products that empower <b>data</b>-driven decision...
-        "
-21,"Manager, Data Science and Machine Learning",29 days ago,,"Manager, Data Science and Machine Learning",US National,"
-            Be a hands-on leader of <b>data</b> scientists and ML engineers responsible for the design, build and maintenance of ML models that drive a personalized experience throughout the user journey. Evaluate and improve existing systems to provide more robust...
-        "
-22,"Data Science Lead, Creator Marketing",13 days ago,,"Data Science Lead, Creator Marketing","New York, NY","
-            In this role, you'll report to the Head of Creator Marketing. You will also be a part of a wider community of 40+ <b>data</b> scientists and researchers building creator-facing products. This is a crucial role for our organization. The ideal candidate will...
-        "
-23,Analytics and Data Science Curriculum Manager,10 days ago,,Analytics and Data Science Curriculum Manager,US National,"
-            Assess subject matter experts who apply to become instructors. Create detailed specifications for new content, including courses, practice, and projects. Effectively set and hold instructors accountable for deliverable deadlines. Create content...
-        "
-24,"Director, Program Management - Data Science",12 days ago,,"Director, Program Management - Data Science","Boston, MA","
-            Take leadership role in the execution of agile development processes, working with the cross-functional teams to drive day-to-day execution of project deliverables. Define and execute to project plans for medical device prototypes and products.
-
-        "
-25,"Talent Manager, Data Science and Analytics",30+ days ago,,"Talent Manager, Data Science and Analytics","AZ, CA, FL, GA, IL, MD, MA, MI, MN, MT, NV, OH, OR, PA, SC, TN, TX, WA","
-            Manage team pools by building relationships with and crafting communities of top talent by evaluating their profiles and skills while enabling their success on the company. Bring a top-tier, subject-matter expert level on writing-based skill sets with...
-        "
-26,"Associate Director, Science",23 days ago,,"Associate Director, Science","Barcelona, Spain","
-            Lead customer engagements and deliver study results using the company's evidence platform. With your study team you will design and implement real-world evidence studies using rigorous epidemiologic research methods and <b>data</b> analytic techniques to gene...
-        "
+                6 days ago",,"You'll be in charge of leading the team responsible for optimizing operations - from ensuring we can accurately forecast and schedule our customer support agents, to supporting a culture of experiment-led outcomes among our product squads. Remote work.","Director of Data Science, Operations",United Kingdom
+19,"Director of Data Science, Portfolio Management",11 days ago,,You have experience applyingdatascienceto credit risk management and are excited to optimize a multi-billion dollar portfolio that's growing every day. You want to help improve the financial health of the 100 million working-class Americans who live...,"Director of Data Science, Portfolio Management","US National (Not hiring in CA, CO, NY, WA)"
+20,"Software Engineer - Data Science Engineering, Core Data",30+ days ago,,"Work closely with various cross-functional teams to develop and deliver tools ordatastructures to measure, optimize and scale our product offerings. Perform all of the necessarydatatransformations to serve products that empowerdata-driven decision...","Software Engineer - Data Science Engineering, Core Data",US National
+21,"Manager, Data Science and Machine Learning",29 days ago,,"Be a hands-on leader ofdatascientists and ML engineers responsible for the design, build and maintenance of ML models that drive a personalized experience throughout the user journey. Evaluate and improve existing systems to provide more robust...","Manager, Data Science and Machine Learning",US National
+22,"Data Science Lead, Creator Marketing",13 days ago,,"In this role, you'll report to the Head of Creator Marketing. You will also be a part of a wider community of 40+datascientists and researchers building creator-facing products. This is a crucial role for our organization. The ideal candidate will...","Data Science Lead, Creator Marketing","New York, NY"
+23,Analytics and Data Science Curriculum Manager,10 days ago,,"Assess subject matter experts who apply to become instructors. Create detailed specifications for new content, including courses, practice, and projects. Effectively set and hold instructors accountable for deliverable deadlines. Create content...",Analytics and Data Science Curriculum Manager,US National
+24,"Director, Program Management - Data Science",12 days ago,,"Take leadership role in the execution of agile development processes, working with the cross-functional teams to drive day-to-day execution of project deliverables. Define and execute to project plans for medical device prototypes and products.","Director, Program Management - Data Science","Boston, MA"
+25,"Talent Manager, Data Science and Analytics",30+ days ago,,"Manage team pools by building relationships with and crafting communities of top talent by evaluating their profiles and skills while enabling their success on the company. Bring a top-tier, subject-matter expert level on writing-based skill sets with...","Talent Manager, Data Science and Analytics","AZ, CA, FL, GA, IL, MD, MA, MI, MN, MT, NV, OH, OR, PA, SC, TN, TX, WA"
+26,"Associate Director, Science",23 days ago,,Lead customer engagements and deliver study results using the company's evidence platform. With your study team you will design and implement real-world evidence studies using rigorous epidemiologic research methods anddataanalytic techniques to gene...,"Associate Director, Science","Barcelona, Spain"
 27,Senior Analyst Advanced Analytics and Data Science,"New!
-                6 days ago",,Senior Analyst Advanced Analytics and Data Science,Poland,"
-            Work closely with the product owners, consultants, and solution architects from internal/partner organizations to ensure our <b>data</b> driven principle is lived and breathed in every proposition that we deliver and ultimately support our digital <b>data</b> program.
-        "
+                6 days ago",,"Work closely with the product owners, consultants, and solution architects from internal/partner organizations to ensure ourdatadriven principle is lived and breathed in every proposition that we deliver and ultimately support our digitaldataprogram.",Senior Analyst Advanced Analytics and Data Science,Poland
 28,"Senior Data Science Software Developer, Service Algorithms","New!
-                Yesterday",,"Senior Data Science Software Developer, Service Algorithms","Canada, or US National","
-            Develop, implement, and maintain scalable and efficient <b>data</b> <b>science</b> solutions to address business challenges. Collaborate with stakeholders to understand requirements and translate them into actionable optimization solutions. Design, develop, and...
-        "
-29,Online Course Instructor - Analytics and Data Science,28 days ago,,Online Course Instructor - Analytics and Data Science,US National,"
-            You will work with our content team to build a best-in-class <b>data</b> course that helps learners grasp new concepts and practice them through a hands-on learning experience! To be successful, you will need to take ownership over course development and...
-        "
-30,"Data Science, School of Cybersecurity and Information Technology - Adjunct Faculty",30+ days ago,,"Data Science, School of Cybersecurity and Information Technology - Adjunct Faculty",US National,"
-            Teach online college-level classes in <b>Data</b> <b>Science</b> for a global campus. Must have a master's degree and 3-5 years of experience in <b>data</b> analysis, big <b>data</b> analytics, and <b>data</b> <b>science</b>. Part-time, home-based position.
-        "
-31,High School Science Teacher,30+ days ago,,High School Science Teacher,US National,"
-            Looking for an enthusiastic full-time <b>Science</b> Instructor to provide academic support to our students. Our instructors assist students in meeting established learning objectives, as well as their own personal educational goals.
-        "
-32,Secondary Science Teacher,30+ days ago,,Secondary Science Teacher,TN,"
-            Working from your home office within Tennessee, certified Teachers will virtually manage instructional programs. Through use of the telephone, Internet and various curriculum tools they will consult regularly with learning coaches and students to...
-        "
-33,Life Sciences - Business Development Lead,9 days ago,,Life Sciences - Business Development Lead,US National,"
-            Drive successful business development, partnership formation, and account expansions with new and existing Life <b>Sciences</b> customers , including: Maintaining strong relationships with both executives and project teams across clients; Educating potential...
-        "
-34,High School Science Teacher,30+ days ago,,High School Science Teacher,CA,"
-            The High School <b>Science</b> Teacher will be responsible for the successful completion of the following tasks: Complete all grading, create progress reports and conduct parent conferences in a timely manner; Support the instructional program with...
-        "
-35,Chief Science and Innovation Officer,3 weeks ago,,Chief Science and Innovation Officer,US National,"
-            Manages Technical Services leadership in creating and maintaining a strong team of consultants delivering high quality work on time and under budget.Engages with WHC member clients, including C-Suite and Senior Management, to determine strategies. 
-        "
-36,Vice President of Science Grant Programs,23 days ago,,Vice President of Science Grant Programs,US National,"
-            Oversee the grants portfolio, including developing strategy with the <b>Science</b> Program Leads (direct reports to the VP of <b>Science</b> Grants Programs) to fund high-potential, high-impact research, technology platforms, organizations and scientific networks...
-        "
-37,Middle School Science Teacher,30+ days ago,,Middle School Science Teacher,CA,"
-            Communicate with parents, students and other teachers on a regular basis to develop and update Personal Learning Plans and schedules, score assessments, provide feedback on student work, suggest instructional approaches and strategies, monitor...
-        "
+                Yesterday",,"Develop, implement, and maintain scalable and efficientdatasciencesolutions to address business challenges. Collaborate with stakeholders to understand requirements and translate them into actionable optimization solutions. Design, develop, and...","Senior Data Science Software Developer, Service Algorithms","Canada, or US National"
+29,Online Course Instructor - Analytics and Data Science,28 days ago,,"You will work with our content team to build a best-in-classdatacourse that helps learners grasp new concepts and practice them through a hands-on learning experience! To be successful, you will need to take ownership over course development and...",Online Course Instructor - Analytics and Data Science,US National
+30,"Data Science, School of Cybersecurity and Information Technology - Adjunct Faculty",30+ days ago,,"Teach online college-level classes inDataSciencefor a global campus. Must have a master's degree and 3-5 years of experience indataanalysis, bigdataanalytics, anddatascience. Part-time, home-based position.","Data Science, School of Cybersecurity and Information Technology - Adjunct Faculty",US National
+31,High School Science Teacher,30+ days ago,,"Looking for an enthusiastic full-timeScienceInstructor to provide academic support to our students. Our instructors assist students in meeting established learning objectives, as well as their own personal educational goals.",High School Science Teacher,US National
+32,Secondary Science Teacher,30+ days ago,,"Working from your home office within Tennessee, certified Teachers will virtually manage instructional programs. Through use of the telephone, Internet and various curriculum tools they will consult regularly with learning coaches and students to...",Secondary Science Teacher,TN
+33,Life Sciences - Business Development Lead,9 days ago,,"Drive successful business development, partnership formation, and account expansions with new and existing LifeSciencescustomers , including: Maintaining strong relationships with both executives and project teams across clients; Educating potential...",Life Sciences - Business Development Lead,US National
+34,High School Science Teacher,30+ days ago,,"The High SchoolScienceTeacher will be responsible for the successful completion of the following tasks: Complete all grading, create progress reports and conduct parent conferences in a timely manner; Support the instructional program with...",High School Science Teacher,CA
+35,Chief Science and Innovation Officer,3 weeks ago,,"Manages Technical Services leadership in creating and maintaining a strong team of consultants delivering high quality work on time and under budget.Engages with WHC member clients, including C-Suite and Senior Management, to determine strategies.",Chief Science and Innovation Officer,US National
+36,Vice President of Science Grant Programs,23 days ago,,"Oversee the grants portfolio, including developing strategy with theScienceProgram Leads (direct reports to the VP ofScienceGrants Programs) to fund high-potential, high-impact research, technology platforms, organizations and scientific networks...",Vice President of Science Grant Programs,US National
+37,Middle School Science Teacher,30+ days ago,,"Communicate with parents, students and other teachers on a regular basis to develop and update Personal Learning Plans and schedules, score assessments, provide feedback on student work, suggest instructional approaches and strategies, monitor...",Middle School Science Teacher,CA
 38,Middle School Science Teacher,"New!
-                Yesterday",,Middle School Science Teacher,MI,"
-            Teachers provide instruction, support, and guidance, manage the learning process, and focus on students' individual needs. Teachers monitor student progress through our K12's learning management system. They actively work closely with students and...
-        "
+                Yesterday",,"Teachers provide instruction, support, and guidance, manage the learning process, and focus on students' individual needs. Teachers monitor student progress through our K12's learning management system. They actively work closely with students and...",Middle School Science Teacher,MI
 39,"Senior Medical, Clinical Science Liaison","New!
-                5 days ago",,"Senior Medical, Clinical Science Liaison",US National,"
-            Serving as scientific/clinical ambassadors and provide education and support to develop relationships with internal and external client groups. The CSL is a field-based position and will be expected to travel within their assigned region to educate...
-        "
-40,Research Data Scientist,30+ days ago,,Research Data Scientist,"New York, NY","
-            As a Research <b>Data</b> Scientist (reporting to the Director of <b>Data</b> <b>Science</b>), you'll have the infrastructure and talent around you to turn results into new discoveries, prototypes and features that deliver insights to the world's most important organizations.
-        "
-41,Scientist I - Imaging - Brain Science,30+ days ago,,Scientist I - Imaging - Brain Science,"Seattle, WA","
-            Perform dimensionality reduction and label transfer methods to visualize and characterize spatial relationships of cells and compare across individual datasets. Provide an assessment of statistical significance for comparative studies of cell and...
-        "
-42,Geospatial Data Analyst,23 days ago,,Geospatial Data Analyst,"Durham, NC","
-            Provide analysis, analytical modeling, and/or <b>data</b> visualization on <b>data</b> sets using relevant <b>data</b> tools; draft manuscript from study results; communicate relevant findings that support problem solving and decision making. Perform routine and general...
-        "
-43,"Director, Actuarial Science",30+ days ago,,"Director, Actuarial Science",US National,"
-            Evaluate and recommend Marketplace growth opportunities to Senior Management. Lead and support development and execution of go-to-market strategies associated with Marketplace growth opportunities. Accountable for the high quality output ...
-        "
+                5 days ago",,Serving as scientific/clinical ambassadors and provide education and support to develop relationships with internal and external client groups. The CSL is a field-based position and will be expected to travel within their assigned region to educate...,"Senior Medical, Clinical Science Liaison",US National
+40,Research Data Scientist,30+ days ago,,"As a ResearchDataScientist (reporting to the Director ofDataScience), you'll have the infrastructure and talent around you to turn results into new discoveries, prototypes and features that deliver insights to the world's most important organizations.",Research Data Scientist,"New York, NY"
+41,Scientist I - Imaging - Brain Science,30+ days ago,,Perform dimensionality reduction and label transfer methods to visualize and characterize spatial relationships of cells and compare across individual datasets. Provide an assessment of statistical significance for comparative studies of cell and...,Scientist I - Imaging - Brain Science,"Seattle, WA"
+42,Geospatial Data Analyst,23 days ago,,"Provide analysis, analytical modeling, and/ordatavisualization ondatasets using relevantdatatools; draft manuscript from study results; communicate relevant findings that support problem solving and decision making. Perform routine and general...",Geospatial Data Analyst,"Durham, NC"
+43,"Director, Actuarial Science",30+ days ago,,Evaluate and recommend Marketplace growth opportunities to Senior Management. Lead and support development and execution of go-to-market strategies associated with Marketplace growth opportunities. Accountable for the high quality output ...,"Director, Actuarial Science",US National
 44,"Manager, Analytics Consulting - Life Sciences","New!
-                3 days ago",,"Manager, Analytics Consulting - Life Sciences",US National,"
-            Lead engagements of Analytics Consulting projects with customers who operate at the cutting edge of life <b>sciences</b>, serving as the primary customer contact throughout projects. You will partner with internal teams such as <b>data</b> <b>science</b> and customer...
-        "
-45,Secondary 6-12 Science Substitute Teacher,30+ days ago,,Secondary 6-12 Science Substitute Teacher,US National,"
-            Working from your secure and distraction-free home office, certified Substitute Teachers will virtually support the learning program for students in our schools across the country. Using the telephone, Internet and various curriculum tools, the...
-        "
-46,Chemistry Data Curator,30+ days ago,,Chemistry Data Curator,India,"
-            Extract the vendors' <b>data</b> available in different file formats (SDF, CSV, Excel, and plain text) and bring it into a standard format as required to load into a central database. This includes cleaning of the <b>data</b>, conversion of the <b>data</b> from one format...
-        "
-47,"Senior Data Engineer, Data Analytics",13 days ago,,"Senior Data Engineer, Data Analytics","Boston, MA","
-            As a <b>data</b> engineer on the <b>Data</b> <b>Science</b> &amp; Analytics team, you will work closely with other product, <b>data</b> <b>science</b> and engineering to build out company wide <b>data</b> models, pipelines, and reports that support the analytics for the various products that drive...
-        "
-48,Real-World Data Epidemiologist,15 days ago,,Real-World Data Epidemiologist,US National,"
-            Design <b>data</b> models for structuring and abstracting research <b>data</b> from patients' medical records. You have 3 or more years relevant experience. Work with our partners, clinical, and <b>data</b> <b>science</b> teams to design studies using real world <b>data</b>.
-        "
-49,Head of Data,3 weeks ago,,Head of Data,US National,"
-            Develop our <b>data</b> <b>science</b> strategy and vision. Your goal is to drive impact across different aspects of our business through innovative use of <b>data</b> <b>science</b> and machine learning. Follow and share industry trends in <b>data</b> <b>science</b> and machine learning...
-        "
-50,"Senior Product Leader, Life Sciences",16 days ago,,"Senior Product Leader, Life Sciences","Canada, or US National","
-            Work with EHR product teams to curate relevant subject area <b>data</b> to ensure research-grade <b>data</b> streams. Work with Engineering teams to ensure requirements and <b>data</b> nuances are understood. Provide guidance and leadership around <b>data</b> validation, ensure...
-        "
-51,"Senior Data Scientist, MarTech",30+ days ago,,"Senior Data Scientist, MarTech",United Kingdom,"
-            In close collaboration with our engineering, product and marketing colleagues, you will build <b>data</b> products and self-service tools that help our Marketing teams to supercharge user growth and deepen the user engagement with our product.
-        "
-52,Data Engineer,1 week ago,,Data Engineer,US National,"
-            Work directly with the senior <b>data</b>-engineer and <b>data</b> <b>science</b> team on all <b>data</b> engineering initiatives from the business. You will learn how to maintain and create new <b>data</b> pipelines, and you will be managing company wide shared <b>data</b> resources which...
-        "
-53,Bilingual Wage Data Collector,30+ days ago,,Bilingual Wage Data Collector,"VA, Washington, DC, MD","
-            The <b>Data</b> Collector assists with on-site activities of multiple CASTL projects, as assigned, some of which can include observations within classrooms, 1:1 direct child assessments, and <b>data</b> collection and upload using project guidelines. Possible...
-        "
-54,Data Scientist,30+ days ago,,Data Scientist,"Austin, TX","
-<b>Data</b> scientist needed for a full-time, remote option position responsible for conducting research, writing code, generating and developing designs, and generally working with <b>data</b>. Three+ years' experience, computer <b>science</b> degree required.
-        "
-55,Principal Consultant- Life Sciences,23 days ago,,Principal Consultant- Life Sciences,US National,"
-            Work in implementation teams on customer engagement projects as a Lead Commercial and/or Regulatory Business Analyst. Work with our product management teams to understand current and future releases of the application suite. Communicate customer...
-        "
-56,Data Product Manager,30+ days ago,,Data Product Manager,US National,"
-            The <b>Data</b> Product Manager works with the BI and <b>Data</b> <b>Science</b> teams to define product requirements based on the business objectives and customer needs.The <b>Data</b> Product Manager works with the BI and <b>Data</b> <b>Science</b> teams to prioritize projects based on impact.
-        "
-57,National Vice President of Science Marketing,30+ days ago,,National Vice President of Science Marketing,US National,"
-            Develops, communicates, and advises planning and implementation of multi-channel marketing activities to engage AHA's Professional Members, and achieve Lifelong Learning, Scientific Publications, Sessions (events and conferences) and Research objectives.
-        "
+                3 days ago",,"Lead engagements of Analytics Consulting projects with customers who operate at the cutting edge of lifesciences, serving as the primary customer contact throughout projects. You will partner with internal teams such asdatascienceand customer...","Manager, Analytics Consulting - Life Sciences",US National
+45,Secondary 6-12 Science Substitute Teacher,30+ days ago,,"Working from your secure and distraction-free home office, certified Substitute Teachers will virtually support the learning program for students in our schools across the country. Using the telephone, Internet and various curriculum tools, the...",Secondary 6-12 Science Substitute Teacher,US National
+46,Chemistry Data Curator,30+ days ago,,"Extract the vendors'dataavailable in different file formats (SDF, CSV, Excel, and plain text) and bring it into a standard format as required to load into a central database. This includes cleaning of thedata, conversion of thedatafrom one format...",Chemistry Data Curator,India
+47,Real-World Data Epidemiologist,15 days ago,,"Designdatamodels for structuring and abstracting researchdatafrom patients' medical records. You have 3 or more years relevant experience. Work with our partners, clinical, anddatascienceteams to design studies using real worlddata.",Real-World Data Epidemiologist,US National
+48,"Senior Data Engineer, Data Analytics",13 days ago,,"As adataengineer on theDataScience& Analytics team, you will work closely with other product,datascienceand engineering to build out company widedatamodels, pipelines, and reports that support the analytics for the various products that drive...","Senior Data Engineer, Data Analytics","Boston, MA"
+49,Head of Data,3 weeks ago,,Develop ourdatasciencestrategy and vision. Your goal is to drive impact across different aspects of our business through innovative use ofdatascienceand machine learning. Follow and share industry trends indatascienceand machine learning...,Head of Data,US National
+50,"Senior Product Leader, Life Sciences",16 days ago,,"Work with EHR product teams to curate relevant subject areadatato ensure research-gradedatastreams. Work with Engineering teams to ensure requirements anddatanuances are understood. Provide guidance and leadership arounddatavalidation, ensure...","Senior Product Leader, Life Sciences","Canada, or US National"
+51,"Senior Data Scientist, MarTech",30+ days ago,,"In close collaboration with our engineering, product and marketing colleagues, you will builddataproducts and self-service tools that help our Marketing teams to supercharge user growth and deepen the user engagement with our product.","Senior Data Scientist, MarTech",United Kingdom
+52,Data Engineer,1 week ago,,"Work directly with the seniordata-engineer anddatascienceteam on alldataengineering initiatives from the business. You will learn how to maintain and create newdatapipelines, and you will be managing company wide shareddataresources which...",Data Engineer,US National
+53,Bilingual Wage Data Collector,30+ days ago,,"TheDataCollector assists with on-site activities of multiple CASTL projects, as assigned, some of which can include observations within classrooms, 1:1 direct child assessments, anddatacollection and upload using project guidelines. Possible...",Bilingual Wage Data Collector,"VA, Washington, DC, MD"
+54,Data Scientist,30+ days ago,,"Datascientist needed for a full-time, remote option position responsible for conducting research, writing code, generating and developing designs, and generally working withdata. Three+ years' experience, computersciencedegree required.",Data Scientist,"Austin, TX"
+55,Principal Consultant- Life Sciences,23 days ago,,Work in implementation teams on customer engagement projects as a Lead Commercial and/or Regulatory Business Analyst. Work with our product management teams to understand current and future releases of the application suite. Communicate customer...,Principal Consultant- Life Sciences,US National
+56,Data Product Manager,30+ days ago,,TheDataProduct Manager works with the BI andDataScienceteams to define product requirements based on the business objectives and customer needs.TheDataProduct Manager works with the BI andDataScienceteams to prioritize projects based on impact.,Data Product Manager,US National
+57,National Vice President of Science Marketing,30+ days ago,,"Develops, communicates, and advises planning and implementation of multi-channel marketing activities to engage AHA's Professional Members, and achieve Lifelong Learning, Scientific Publications, Sessions (events and conferences) and Research objectives.",National Vice President of Science Marketing,US National
 58,"Vice President, Data","New!
-                Yesterday",,"Vice President, Data",US National,"
-            Lead the <b>data</b> engineering, <b>data</b> management, <b>data</b> <b>science</b>, and machine learning teams. Execute a continual planning process that delivers dependable results. Foster a culture of curiosity and discovery. Master's degree and 10 years of exp in <b>data</b> <b>science</b>.
-        "
-59,"Director, Business Development, Life Sciences",17 days ago,,"Director, Business Development, Life Sciences","Boston, MA","
-            AI driven predictive analytics, remote monitoring, and decision support platforms drive down the cost of care while improving outcomes. This is a critical role that will drive awareness and adoption of the company into the pharmaceutical industry.
-        "
-60,"Payroll Coordinator, Life-science industry",28 days ago,,"Payroll Coordinator, Life-science industry",Poland,"
-            The Payroll Coordinator will provide full functional payroll support for the allocated EMEA payrolls, although primarily home country, ensuring they are processed accurately and on-time. They will ensure processing, payments and reporting deadlines...
-        "
-61,Director of Data and Integrations,13 days ago,,Director of Data and Integrations,"Buenos Aires, Argentina","
-            Drive the scope and effectiveness of the <b>Data</b> and Integrations function at the company. Postgraduate work or equivalent experience (Masters or PhD) in a quantitative field such as mathematics, physics, computer <b>science</b>, <b>data</b> <b>science</b>, statistics, etc.
-        "
-62,Faculty - College of Humanities and Social Sciences,30+ days ago,,Faculty - College of Humanities and Social Sciences,"Lenexa, KS","
-            Provide instruction in accordance with the University and within the scope of departmentally-defined courses, programs of study, and degrees. Responsibility includes timely interaction with students and quality assessment of student work with feedback.
-        "
-63,Data Scientist,30+ days ago,,Data Scientist,US National,"
-            Design, create, and maintain <b>data</b> dashboards to help the team make better <b>data</b>-driven decisions. Collaborate with product and engineering to build <b>data</b>-powered features in the app. 1-2+ years experience as a <b>Data</b> Scientist, <b>Data</b> Engineer, <b>Data</b> Analyst...
-        "
-64,Principal Data Engineer,3 weeks ago,,Principal Data Engineer,US National,"
-            You will lead and perform development activities for our <b>data</b> platform, which serves as the foundational <b>data</b> architecture for <b>Data</b> <b>Science</b>, <b>Data</b> Analytics, and Research &amp; Learning Engineering teams. You will be directly involved in the design...
-        "
-65,Data Scientist,30+ days ago,,Data Scientist,"Gold River, CA","
-            Join customer experience practice. Aptitude and creativity are valued. Will use machine learning related techniques to develop scalable solutions. Extract key insights. PhD in area of computer <b>science</b> req. This is a full-time contract. Telecommute.
-        "
-66,Data Engineer,30+ days ago,,Data Engineer,US National,"
-            Identify <b>data</b> needs for business and product teams, understand their specific requirements for metrics and analysis, and build efficient and scalable <b>data</b> pipelines to enable <b>data</b>-driven decisions across brand
-Design, develop, and own <b>data</b> pipelines...
-        "
-67,Data Scientist,24 days ago,,Data Scientist,US National,"
-            Help create ETL pipelines in Snowflake, MySQL, Python. Design, build, and maintain the following big-<b>data</b> pipelines in a distributed environment for maximum productivity and scalability: <b>Data</b> engineering; ML development, evaluation and deployment...
-        "
-68,Senior Data Architect,30+ days ago,,Senior Data Architect,"Bangalore, India","
-            Provide analysis, counsel and direction to engineering and <b>data</b> <b>science</b> teams on enterprise <b>data</b> management best practices. Partner with enterprise support teams and leadership to make <b>Data</b> Architecture part of a holistic enterprise strategy.
-        "
-69,Data Scientist,9 days ago,,Data Scientist,US National,"
-            Develop and maintain <b>data</b> models and tools that enable the <b>data</b> team to analyze large <b>data</b> sets and extract valuable insights. Use <b>data</b> crunching, statistical, and machine learning skills to contribute to high-impact projects affecting company revenue.
-        "
-70,Data Scientist,30+ days ago,,Data Scientist,"Copenhagen, Denmark","
-            The <b>data</b> scientist will evaluate &amp; improve products by analyzing <b>data</b>, building analysis pipelines, &amp; providing business recommendations. Must have two years' experience working in a field related to <b>data</b> analysis. Remote working is allowed.
-        "
-71,Data Analyst,8 days ago,,Data Analyst,"MO, IA, WI, IL, MN, MI, AR, AL, LA","
-            Work with stakeholders to understand their <b>data</b> needs and provide recommendations for improvements to <b>data</b> sources and reporting processes. Collaborate with cross-functional teams to gather <b>data</b> requirements and create <b>data</b> visualizations that help...
-        "
+                Yesterday",,"Lead thedataengineering,datamanagement,datascience, and machine learning teams. Execute a continual planning process that delivers dependable results. Foster a culture of curiosity and discovery. Master's degree and 10 years of exp indatascience.","Vice President, Data",US National
+59,"Director, Business Development, Life Sciences",17 days ago,,"AI driven predictive analytics, remote monitoring, and decision support platforms drive down the cost of care while improving outcomes. This is a critical role that will drive awareness and adoption of the company into the pharmaceutical industry.","Director, Business Development, Life Sciences","Boston, MA"
+60,"Payroll Coordinator, Life-science industry",28 days ago,,"The Payroll Coordinator will provide full functional payroll support for the allocated EMEA payrolls, although primarily home country, ensuring they are processed accurately and on-time. They will ensure processing, payments and reporting deadlines...","Payroll Coordinator, Life-science industry",Poland
+61,Director of Data and Integrations,13 days ago,,"Drive the scope and effectiveness of theDataand Integrations function at the company. Postgraduate work or equivalent experience (Masters or PhD) in a quantitative field such as mathematics, physics, computerscience,datascience, statistics, etc.",Director of Data and Integrations,"Buenos Aires, Argentina"
+62,Faculty - College of Humanities and Social Sciences,30+ days ago,,"Provide instruction in accordance with the University and within the scope of departmentally-defined courses, programs of study, and degrees. Responsibility includes timely interaction with students and quality assessment of student work with feedback.",Faculty - College of Humanities and Social Sciences,"Lenexa, KS"
+63,Data Scientist,30+ days ago,,"Design, create, and maintaindatadashboards to help the team make betterdata-driven decisions. Collaborate with product and engineering to builddata-powered features in the app. 1-2+ years experience as aDataScientist,DataEngineer,DataAnalyst...",Data Scientist,US National
+64,Principal Data Engineer,3 weeks ago,,"You will lead and perform development activities for ourdataplatform, which serves as the foundationaldataarchitecture forDataScience,DataAnalytics, and Research & Learning Engineering teams. You will be directly involved in the design...",Principal Data Engineer,US National
+65,Data Scientist,30+ days ago,,Join customer experience practice. Aptitude and creativity are valued. Will use machine learning related techniques to develop scalable solutions. Extract key insights. PhD in area of computersciencereq. This is a full-time contract. Telecommute.,Data Scientist,"Gold River, CA"
+66,Data Engineer,30+ days ago,,"Identifydataneeds for business and product teams, understand their specific requirements for metrics and analysis, and build efficient and scalabledatapipelines to enabledata-driven decisions across brand
+Design, develop, and owndatapipelines...",Data Engineer,US National
+67,Data Scientist,24 days ago,,"Help create ETL pipelines in Snowflake, MySQL, Python. Design, build, and maintain the following big-datapipelines in a distributed environment for maximum productivity and scalability:Dataengineering; ML development, evaluation and deployment...",Data Scientist,US National
+68,Senior Data Architect,30+ days ago,,"Provide analysis, counsel and direction to engineering anddatascienceteams on enterprisedatamanagement best practices. Partner with enterprise support teams and leadership to makeDataArchitecture part of a holistic enterprise strategy.",Senior Data Architect,"Bangalore, India"
+69,Data Scientist,9 days ago,,"Develop and maintaindatamodels and tools that enable thedatateam to analyze largedatasets and extract valuable insights. Usedatacrunching, statistical, and machine learning skills to contribute to high-impact projects affecting company revenue.",Data Scientist,US National
+70,Data Scientist,30+ days ago,,"Thedatascientist will evaluate & improve products by analyzingdata, building analysis pipelines, & providing business recommendations. Must have two years' experience working in a field related todataanalysis. Remote working is allowed.",Data Scientist,"Copenhagen, Denmark"
+71,Data Analyst,8 days ago,,Work with stakeholders to understand theirdataneeds and provide recommendations for improvements todatasources and reporting processes. Collaborate with cross-functional teams to gatherdatarequirements and createdatavisualizations that help...,Data Analyst,"MO, IA, WI, IL, MN, MI, AR, AL, LA"
 72,Data Scientist,"New!
-                Yesterday",,Data Scientist,US National,"
-            Develop insights generation and <b>data</b> visualization. Develop and optimization of machine models for tracking changes in user overtime. Machine learning modeling and processing. Perform exploratory <b>data</b> analysis for new datasets. Develop machine learning...
-        "
-73,Data Analyst,1 week ago,,Data Analyst,US National,"
-<b>Data</b> analysis for large engineering program management (environmental, construction, financial, project/program management). The program management <b>data</b> may include the cost, schedule, projects, contracts, risks, etc. Support the program <b>data</b>...
-        "
-74,Data Analyst,29 days ago,,Data Analyst,US National,"
-            Analyzing complex business problems using <b>data</b> from internal and external sources. Processing and exploring <b>data</b>, discovering patterns/trends, and identifying anomalies. Performing statistical analysis of structured and unstructured datasets to develop...
-        "
-75,Data Scientist,24 days ago,,Data Scientist,US National,"
-            Undertake preprocessing of structured and unstructured <b>data</b>. Analyze large amounts of information to discover trends and patterns. Build predictive models and machine-learning algorithms. Present information using <b>data</b> visualization techniques...
-        "
+                Yesterday",,Develop insights generation anddatavisualization. Develop and optimization of machine models for tracking changes in user overtime. Machine learning modeling and processing. Perform exploratorydataanalysis for new datasets. Develop machine learning...,Data Scientist,US National
+73,Data Analyst,1 week ago,,"Dataanalysis for large engineering program management (environmental, construction, financial, project/program management). The program managementdatamay include the cost, schedule, projects, contracts, risks, etc. Support the programdata...",Data Analyst,US National
+74,Data Analyst,29 days ago,,"Analyzing complex business problems usingdatafrom internal and external sources. Processing and exploringdata, discovering patterns/trends, and identifying anomalies. Performing statistical analysis of structured and unstructured datasets to develop...",Data Analyst,US National
+75,Data Scientist,24 days ago,,Undertake preprocessing of structured and unstructureddata. Analyze large amounts of information to discover trends and patterns. Build predictive models and machine-learning algorithms. Present information usingdatavisualization techniques...,Data Scientist,US National
 76,Data Analyst,"New!
-                5 days ago",,Data Analyst,US National,"
-            Acquire <b>data</b> from primary or secondary <b>data</b> sources and establish temporary <b>data</b> collection processes. Develop and implement tactical <b>data</b> collection systems, <b>data</b> analytics, and other strategies to achieve reporting objectives. Interpret <b>data</b>...
-        "
-77,"Director, Data Analytics",30+ days ago,,"Director, Data Analytics",US National,"
-            You utilize <b>data</b> <b>science</b> by combining math, statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden within an...
-        "
+                5 days ago",,"Acquiredatafrom primary or secondarydatasources and establish temporarydatacollection processes. Develop and implement tacticaldatacollection systems,dataanalytics, and other strategies to achieve reporting objectives. Interpretdata...",Data Analyst,US National
+77,"Director, Data Analytics",30+ days ago,,"You utilizedatascienceby combining math, statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden within an...","Director, Data Analytics",US National
 78,Data Analyst,"New!
-                3 days ago",,Data Analyst,US National,"
-            Acquire <b>data</b> from primary or secondary <b>data</b> sources and establish temporary <b>data</b> collection processes. Develop and implement tactical <b>data</b> collection systems, <b>data</b> analytics, and other strategies to achieve reporting objectives. Interpret <b>data</b>...
-        "
-79,Data Engineer,29 days ago,,Data Engineer,"Bangalore, India","
-            The <b>Data</b> Engineer is responsible for the design, development, implementation, and support of our core <b>data</b> warehouse and <b>data</b> marts to power advanced analytics and ad hoc analyses to both internal and external clients. Bachelor's degree and 1+ yr of exp.
-        "
-80,Data Analyst,13 days ago,,Data Analyst,IL,"
-            Perform basic <b>data</b> management, <b>data</b> cleaning and statistical analysis using SAS, R, or other statistical programming language on COVID-19 <b>data</b> to complete <b>data</b> extracts. Continuously monitoring performance and quality control plans to identify...
-        "
-81,Director of Data,1 week ago,,Director of Data,"Singapore, Singapore","
-            Manage the development of the company's overall <b>data</b> architecture, adopt new ad and CRM technologies to maximize revenue, ensure consistency of process and usage, and champions best practices in <b>data</b> management, and oversee <b>data</b> accuracy processes/goals.
-        "
-82,Data Engineer,1 week ago,,Data Engineer,US National,"
-            A <b>Data</b> Engineer should be able to build, operationalize and monitor <b>data</b> processing systems. Create robust and automated pipelines to ingest and process structured and unstructured <b>data</b> from various source systems into analytical platforms using systems.
-        "
-83,Junior Data Analyst,30+ days ago,,Junior Data Analyst,India,"
-            Your objective will be to support the consulting, product and engineering team to deliver new features based on robust statistical and <b>data</b> <b>science</b> techniques. You will also be called upon to help on specific client projects, this could involve analysis.
-        "
-84,Data Engineer,"New!
-                Today",,Data Engineer,US National,"
-            Participate in the overall architecture, engineering, and operations of a modern <b>data</b> warehouse and analytics platforms. 5 years of engineering experience in enterprise <b>data</b> warehousing, <b>data</b> engineering, business intelligence, and delivering analytics...
-        "
-85,Lead Data Engineer,13 days ago,,Lead Data Engineer,PA,"
-            Analyze <b>science</b>, engineering, business and other <b>data</b> processing problems to implement and improve computer systems. Perform advanced SQL Programming in <b>data</b> warehouse environment including use of different analysis techniques or business intelligence...
-        "
-86,Head of Data,"New!
-                5 days ago",,Head of Data,"Houston, TX","
-            Collaborate regularly with colleagues with many different specialities to create innovative solutions that delight our customers and colleagues. Work with <b>data</b> scientists, <b>data</b> engineers, and <b>data</b> analysts to scope out and plan new <b>data</b> sources and...
-        "
-87,Data Engineer,30+ days ago,,Data Engineer,Canada,"
-            Implement distributed <b>data</b> processing systems using the Spark framework(pyspark). Keep abreast of state-of-the-art technology in <b>Data</b> engineering, perform proof-of-concepts, and plan to incorporate these into our products.
-        "
-88,Data Lead,30+ days ago,,Data Lead,US National,"
-            Full-time, remote candidate will audit and configure <b>data</b> infrastructure, implement product usage analytics with clear definitions, and proactively bring new business opportunities. Must have five plus years of experience as a <b>data</b> guru.
-        "
+                3 days ago",,"Acquiredatafrom primary or secondarydatasources and establish temporarydatacollection processes. Develop and implement tacticaldatacollection systems,dataanalytics, and other strategies to achieve reporting objectives. Interpretdata...",Data Analyst,US National
+79,Data Engineer,29 days ago,,"TheDataEngineer is responsible for the design, development, implementation, and support of our coredatawarehouse anddatamarts to power advanced analytics and ad hoc analyses to both internal and external clients. Bachelor's degree and 1+ yr of exp.",Data Engineer,"Bangalore, India"
+80,Data Analyst,13 days ago,,"Perform basicdatamanagement,datacleaning and statistical analysis using SAS, R, or other statistical programming language on COVID-19datato completedataextracts. Continuously monitoring performance and quality control plans to identify...",Data Analyst,IL
+81,Director of Data,1 week ago,,"Manage the development of the company's overalldataarchitecture, adopt new ad and CRM technologies to maximize revenue, ensure consistency of process and usage, and champions best practices indatamanagement, and overseedataaccuracy processes/goals.",Director of Data,"Singapore, Singapore"
+82,Data Engineer,1 week ago,,"ADataEngineer should be able to build, operationalize and monitordataprocessing systems. Create robust and automated pipelines to ingest and process structured and unstructureddatafrom various source systems into analytical platforms using systems.",Data Engineer,US National
+83,Data Engineer,"New!
+                Today",,"Participate in the overall architecture, engineering, and operations of a moderndatawarehouse and analytics platforms. 5 years of engineering experience in enterprisedatawarehousing,dataengineering, business intelligence, and delivering analytics...",Data Engineer,US National
+84,Head of Data,"New!
+                5 days ago",,"Collaborate regularly with colleagues with many different specialities to create innovative solutions that delight our customers and colleagues. Work withdatascientists,dataengineers, anddataanalysts to scope out and plan newdatasources and...",Head of Data,"Houston, TX"
+85,Lead Data Engineer,13 days ago,,"Analyzescience, engineering, business and otherdataprocessing problems to implement and improve computer systems. Perform advanced SQL Programming indatawarehouse environment including use of different analysis techniques or business intelligence...",Lead Data Engineer,PA
+86,Junior Data Analyst,30+ days ago,,"Your objective will be to support the consulting, product and engineering team to deliver new features based on robust statistical anddatasciencetechniques. You will also be called upon to help on specific client projects, this could involve analysis.",Junior Data Analyst,India
+87,Data Engineer,30+ days ago,,"Implement distributeddataprocessing systems using the Spark framework(pyspark). Keep abreast of state-of-the-art technology inDataengineering, perform proof-of-concepts, and plan to incorporate these into our products.",Data Engineer,Canada
+88,Data Lead,30+ days ago,,"Full-time, remote candidate will audit and configuredatainfrastructure, implement product usage analytics with clear definitions, and proactively bring new business opportunities. Must have five plus years of experience as adataguru.",Data Lead,US National
 89,Data Analyst,"New!
-                2 days ago",,Data Analyst,US National,"
-            Responsible for ensuring the business makes better decisions through collection and usage of <b>data</b>. Ensures business <b>data</b> and analysis requirements are met by accurately applying <b>data</b> concepts, including <b>data</b> structures, collection and cleansing, and...
-        "
-90,Data Engineer,3 weeks ago,,Data Engineer,US National,"
-            Design, build and support scalable and reliable <b>data</b> solutions that can enable self-service reporting and advanced analytics using open source technologies. More than 3 years of development experience in Big <b>Data</b> space working with Petabytes of <b>data</b>...
-        "
-91,Data Architect,1 week ago,,Data Architect,"San Francisco, CA","
-            Architect and implement a <b>data</b> platform to support current organizational initiatives, while anticipating future needs and evolving the <b>data</b> platform to meet long-term goals. Collaborate with upstream and downstream stakeholders to implement...
-        "
-92,Data Engineer,24 days ago,,Data Engineer,US National,"
-            As a <b>Data</b> Engineer, you will be a member of a high-performing team delivering software solutions to clients. Your days will normally consist of the following activities: Provide process, <b>data</b> and object modeling in a variety of...
-        "
-93,Director of Data,1 week ago,,Director of Data,"Hong Kong, Hong Kong","
-            Manage the development of the company's overall <b>data</b> architecture, adopt new ad and CRM technologies to maximize revenue and manage, develop, prioritize and recommend initiatives to improve and build upon the <b>data</b> architecture to support the business a...
-        "
-94,Director of Data,1 week ago,,Director of Data,"London, United Kingdom","
-            Manages the development of the company's overall <b>data</b> architecture, adopt new ad and CRM technologies to maximise revenue. Will also manage, develop, prioritize and recommend initiatives to improve and build upon the <b>data</b> architecture to support the bu...
-        "
-95,Data Engineer,30+ days ago,,Data Engineer,US National,"
-            Designing, developing, and owning <b>data</b> pipelines that power analytics for business, research, and product teams. Developing elegant <b>data</b> models to deliver business intelligence to stakeholders across the company under a self-service analytics model...
-        "
-96,Data Scientist,30+ days ago,,Data Scientist,MA,"
-            Proactively explore, gather, clean, describe, and analyze <b>data</b>. Develop tools and strategies related to text analytics, machine learning, and semantic enrichment. Develop and maintain strong working relationships across departments and with key...
-        "
-97,Data Engineer,22 days ago,,Data Engineer,"Chicago, IL","
-            Looking for someone that is passionate about <b>data</b> and can help take our analytical capabilities to the next level. You will be instrumental in ensuring the availability, breadth, and reliability of <b>data</b> that uses to continuously make better technical...
-        "
-98,Data Analyst,30+ days ago,,Data Analyst,US National,"
-            The <b>Data</b> Analyst will define <b>data</b> requirements from stakeholders across the company, manage company-wide <b>data</b> needs, and lead creating and QA'ing company-wide dashboards. Bachelor's degree and 5+ years working in SiSense Bl Tools. 100% Remote Work.
-        "
-99,Data Analyst,28 days ago,,Data Analyst,US National,"
-            Assist clients with connecting their Underwriting and Financial models to Pereview. Perform XML mappings in Microsoft Excel to transfer <b>data</b> from workbooks into Pereview. Assist our <b>Data</b> Engineers with ingestion requirements and testing of SSIS package...
-        "
+                2 days ago",,"Responsible for ensuring the business makes better decisions through collection and usage ofdata. Ensures businessdataand analysis requirements are met by accurately applyingdataconcepts, includingdatastructures, collection and cleansing, and...",Data Analyst,US National
+90,Data Engineer,3 weeks ago,,"Design, build and support scalable and reliabledatasolutions that can enable self-service reporting and advanced analytics using open source technologies. More than 3 years of development experience in BigDataspace working with Petabytes ofdata...",Data Engineer,US National
+91,Data Architect,1 week ago,,"Architect and implement adataplatform to support current organizational initiatives, while anticipating future needs and evolving thedataplatform to meet long-term goals. Collaborate with upstream and downstream stakeholders to implement...",Data Architect,"San Francisco, CA"
+92,Data Engineer,24 days ago,,"As aDataEngineer, you will be a member of a high-performing team delivering software solutions to clients. Your days will normally consist of the following activities: Provide process,dataand object modeling in a variety of...",Data Engineer,US National
+93,Director of Data,1 week ago,,"Manage the development of the company's overalldataarchitecture, adopt new ad and CRM technologies to maximize revenue and manage, develop, prioritize and recommend initiatives to improve and build upon thedataarchitecture to support the business a...",Director of Data,"Hong Kong, Hong Kong"
+94,Director of Data,1 week ago,,"Manages the development of the company's overalldataarchitecture, adopt new ad and CRM technologies to maximise revenue. Will also manage, develop, prioritize and recommend initiatives to improve and build upon thedataarchitecture to support the bu...",Director of Data,"London, United Kingdom"
+95,Data Engineer,30+ days ago,,"Designing, developing, and owningdatapipelines that power analytics for business, research, and product teams. Developing elegantdatamodels to deliver business intelligence to stakeholders across the company under a self-service analytics model...",Data Engineer,US National
+96,Data Scientist,30+ days ago,,"Proactively explore, gather, clean, describe, and analyzedata. Develop tools and strategies related to text analytics, machine learning, and semantic enrichment. Develop and maintain strong working relationships across departments and with key...",Data Scientist,MA
+97,Data Engineer,22 days ago,,"Looking for someone that is passionate aboutdataand can help take our analytical capabilities to the next level. You will be instrumental in ensuring the availability, breadth, and reliability ofdatathat uses to continuously make better technical...",Data Engineer,"Chicago, IL"
+98,Data Analyst,30+ days ago,,"TheDataAnalyst will definedatarequirements from stakeholders across the company, manage company-widedataneeds, and lead creating and QA'ing company-wide dashboards. Bachelor's degree and 5+ years working in SiSense Bl Tools. 100% Remote Work.",Data Analyst,US National
+99,Data Analyst,28 days ago,,Assist clients with connecting their Underwriting and Financial models to Pereview. Perform XML mappings in Microsoft Excel to transferdatafrom workbooks into Pereview. Assist ourDataEngineers with ingestion requirements and testing of SSIS package...,Data Analyst,US National
+100,Data Scientist,30+ days ago,,"Bring scientific rigor and statistical methods to the challenges of product creation, development, and improvement. Must have a master's degree and 2 years of work experience in adataanalysis related field. Full-time, remote position.",Data Scientist,"Warsaw, Poland"
+101,Data Engineer,30+ days ago,,"Builddatapipelines and deriving insights out of thedatausing advanced analytic techniques, streaming and machine learning at scale. Work within a dynamic, forward thinking team environment where you will design, develop, and maintain mission...",Data Engineer,US National
+102,Data Analyst,30+ days ago,,Analyze billions of dollars in orderdataacross thousands of hospitals. Usedatato draw meaningful and actionable insights in order to expand growth strategy. Optimize the size of cashback offers through incremental testing to help maximize...,Data Analyst,US National
+103,Business Consultant - Life Sciences Research and Development,30+ days ago,,"Lead a workstream(s) in a project engagement: planning, organizing, and managing all aspects of delivery including scope, quality, resources, risk, and timelines, and be responsible for the end-to-end design, build, and delivery of deliverables.",Business Consultant - Life Sciences Research and Development,"Austria, Belgium, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, Ukraine, United Kingdom"
+104,Data Analyst,22 days ago,,"You will work on a variety of projects that include building analytical models, coding,datavisualizations, and storytelling to help us identify opportunities for our students, for our faculty and our staff.",Data Analyst,US National
+105,"Payroll Specialist, EMEA - Life-science industry",28 days ago,,"Provide full functional payroll support for the allocated EMEA or APAC payrolls, ensuring they are processed accurately and on-time. Ensure that statutory compliance requirements within their assigned EMEA or APAC countries are being adhered to.","Payroll Specialist, EMEA - Life-science industry",Poland
+106,Data Scientist,"New!
+                6 days ago",,Work with stakeholders to identify opportunities for leveraging company dataset to drive business solutions including new product features. Discover actionable insights fromdatasources and develop novel algorithms and models through the use of...,Data Scientist,India
+107,Data Analyst,"New!
+                3 days ago",,"Analyze userdatato identify trends, patterns, and insights that can help us improve user retention and support. Develop dashboards and reports that provide insights into key performance metrics on the health of our customers' businesses.",Data Analyst,"Austria, Belgium, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, Ukraine, United Kingdom"
+108,"Senior Director, Life Science Product Marketing",30+ days ago,,"Lead the product marketing team to own the product portfolio and business results. Develop a deep understanding of our markets and create product positioning and messaging that differentiates our products
+Partner with the Product team to empathize with...","Senior Director, Life Science Product Marketing",US National
+109,Data Analyst,3 weeks ago,,"Create and analyze participantdatato provide monthly, annual, and special reports, presentations and trainings on trends and projections in support of the development of product goals.",Data Analyst,"Evanston, IL"
+110,Data Engineer,15 days ago,,"Understand thedatastructure and meaning in both the source and the target Business Intelligence tools, Tableau and Snowflake. Apply business rules as transformations. Adapt ELT processes to accommodate changes in source systems and new business user...",Data Engineer,US National
+111,Data Analyst,20 days ago,,TheDataAnalyst will coordinate reporting needs with internal teams as well as customers. They will work closely with internal teams to ensure success and support customers' analytics needs on all levels. Act as a liaison between external partners...,Data Analyst,US National
+112,Data Analyst,"New!
+                2 days ago",,"Collect, process, and analyze large and complex datasets to identify trends and patterns. Develop dashboards and reports to provide insights to the business and track key metrics. Bachelor's degree and 2+ years of experience indataanalysis or similar.",Data Analyst,US National
+113,Data Scientist,"New!
+                6 days ago",,"As theDataScientist for our Visualizing Impact project, you'll be responsible for creating machine learning models for identifying Wikipedia and Wikidata content within particular topic areas. Using your machine learning expertise, along...",Data Scientist,US National
+114,Data Scientist,30+ days ago,,"Answer complex questions over real-world datasets comprised of billions of rows. Conduct statistical analysis, natural language processing (NLP), and integration of massive datasets from multiple sources including exploratory analysis, identifying and...",Data Scientist,US National
+115,Senior Data Engineer III,30+ days ago,,"Leverage Snowflake to make several layers ofdataavailable for reporting,DataScienceand analytics. Hands-on work administering and architecting our SnowflakeDataLake/Warehouses/Marts. Enforce corporatedatasecurity and privacy standards in the...",Senior Data Engineer III,US National
+116,"Senior Software Engineer, Data",30+ days ago,,"In this role you will be responsible for all internal and externaldataproducts, which includes product reporting, invoicing, BI dashboards, and servingdatafor ourDataScienceteam.DataEngineering maintains the library of all ourdataassets that...","Senior Software Engineer, Data",US National
+117,Senior Research Scientist - Data Analytics,"New!
+                3 days ago",,"Provides scientific leadership to Real World Evidence and other HEOR business teams. Maintains line of research and expertise in relevant scientific areas, along with connections with new literature and regulatory documents. Publishes scientific work...",Senior Research Scientist - Data Analytics,"Canada, Mexico, or US National"
+118,"Manager, Data Analytics - Real World Data",30+ days ago,,"Apply a mix of quantitative problem-solving skills and qualitative research to solve the questions of the pharmaceutical and medical device industries. Collaborate with various teams (e.g., RWD domain experts, software developers,dataanalysts, and...","Manager, Data Analytics - Real World Data","Philadelphia, PA, or US National"
+119,Medical Data Specialist II - Clinical Data Management,28 days ago,,"Perform clinicaldatareview and query generation/closure to ensuredatacompleteness, accuracy and consistency in accordance with the investigational plan. 2+ years of clinical research experience, including a minimum of 1 year of clinicaldata...",Medical Data Specialist II - Clinical Data Management,US National
+120,Lead Data Scientist Engineer,30+ days ago,,"Telecommute role leadingdatascienceengineering teams to optimize products and processes. Mine and analyze companydata, create models and algorithms. Must have 10 years of experience and a bachelors degree in a quantitative field of study.",Lead Data Scientist Engineer,"Austin, TX"
+121,Senior Applied Data Scientist,"New!
+                Today",,"TheDataScienceteam identifies, designs and implements algorithms that lie at the heart of the company's products. Deduplicate and cluster billions of records to their underlying identities daily. Requires 3+ years of Machine Learning modeling...",Senior Applied Data Scientist,"CA, CO, CT, FL, GA, IL, IN, MA, MN, NC, NJ, NY, OH, OR, PA, TX"
+122,Senior Product Data Scientist,9 days ago,,"Own analytics and tracking plans, within several development work streams, from metric definition anddatainstrumentation design to ongoing reporting and research. 10+ years of experience in aDataSciencerole. Experience with relational databases...",Senior Product Data Scientist,US National
+123,Senior Data Engineer IV,30+ days ago,,"Contribute to the design/architecture new initiatives such as real time streaming pipelines, tooling arounddatagovernance, build job orchestration abstractions to manage resources on AWS. Collaborate with the team to build tools fordatascience...",Senior Data Engineer IV,US National
+124,"Manager, Big Data Engineering",2 weeks ago,,"A hands-on leader who oversees the integration of both internal and externaldatasources to leverage machine learning,datascience, and advanced analytics. Collaborates and coordinates with multiple departments, stakeholders, partners, and external...","Manager, Big Data Engineering",US National
+125,Lead Data Engineer,"New!
+                5 days ago",,"Collaborate withDataScientists andDataAnalysts to develop thedatastructures required to train and deploy predictive models.
+Manage ingestion process of various inputdatasources (healthcaredata, medical claims, pharmacy claims, etc.)",Lead Data Engineer,US National
+126,Data Governance Specialist,17 days ago,,"Develop and implementdatagovernance policies and procedures to ensuredataaccuracy, consistency, and compliance with relevant regulations. Create and maintain adatagovernance framework that outlines eHealth'sdatamanagement practices.",Data Governance Specialist,US National
+127,Azure Data Engineer,23 days ago,,"Working in an established team to design / develop clouddatapipelines and clouddatamodels for enterprise reporting. Extracting large amounts of rawdatafrom a variety of source platforms (CRM, ERP, SAP, HR, Internal systems, external systems).",Azure Data Engineer,US National
+128,Senior Data Scientist,28 days ago,,"ProvideDataScientist skills and produce solution designs as part of both bid and delivery processes. Work with delivery teams to design and implement modern, scalabledataproducts using a range of new and emerging technologies. Lead on alldata...",Senior Data Scientist,United Kingdom
+129,Staff Data Engineer,"New!
+                5 days ago",,"Work very closely withDataPlatform & Operations team,DataArchitecture & Automation leads,DataEngineers & the broaderdata/analytic community to: Define best practices pertaining to the capture of metadata,datagovernance,datasecurity within...",Staff Data Engineer,US National
+130,Technical Data Steward,30+ days ago,,"Ensure thatdata-centric operational activities are aligned and leverage applicabledatastandards, governance processes, and overall best practices. Assistdataowners in the implementation and maintenance of consistency of CRL's critical operational...",Technical Data Steward,Canada
+131,Data Engineer,30+ days ago,,"Writes ETL processes to support ingestion and normalization of a wide variety of social media, news, and web scrape formats. Designs database systems and develops tools for query and analytic processing, including for streaming real-time applications.",Data Engineer,"New York, NY"
+132,Vice President of Data,9 days ago,,"You will manage the structure, priorities, development, and operations of a team ofDataScientists, Business Intelligence Analysts andDataEngineers. Additionally, you'll be tasked with enabling the broader organization to best leverage ourdatateam...",Vice President of Data,"WA, OR, CA, NV, ID, UT, AZ, MT, WY, CO, NM"
+133,Senior Data Architect,30+ days ago,,"The SeniorDataArchitect within the Sales, Planning & Analytics (SPA) division will work with world class psychometricians,datascientists,dataengineers and business analysts to forever change the face of education.",Senior Data Architect,"Bangalore, India"
+134,Data Analyst III,17 days ago,,"Interpret and analyzedatafrom multiple sources including claims, provider, member, and encountersdata. Identify and assess the business impact of trends. Develop, maintain, and troubleshoot complex scripts and reports developed using SQL, Microsoft...",Data Analyst III,NY
+135,Data Engineering Manager,1 week ago,,"This is an important role where you will work on our entiredataarchitecture, developing strategies to ensuredataquality, optimizedatatransformation, and standardizedatamodeling. Additionally, as thedataengineering manager you will work...",Data Engineering Manager,US National
+136,"Product Manager, Data Platform",8 days ago,,"Establish product vision and Northstar for your platform area that connects to the broader analytics platform strategy. Partner with Engineering, Product, TPM, andDataScienceto understand goals and establish success criteria with clearly...","Product Manager, Data Platform",US National
+137,Senior Data Analyst,13 days ago,,"As aDataAnalyst, you will be supporting Product Managers, Developers, and Business Leaders to enable maximum utilization ofdataresources across many domains within the company. You will be collaborating with Engineers,DataScientists, and other...",Senior Data Analyst,Ireland
+138,Senior Data Engineer,11 days ago,,"Design, develop, and owndatamodels anddatapipelines that power the company's research and products. Work with product, engineering, and research teams to understand their needs for analyticaldata. Build a robustdataquality framework to ensure...",Senior Data Engineer,US National
+139,Director of Data Engineering,"New!
+                6 days ago",,"As a Director forDataEngineering, you will be very hands-on, involved in designing and developing scalabledatapipelines, platforms, and tools to acceleratedata-driven business initiatives and products. You will work with cross-functional teams...",Director of Data Engineering,"Boston, MA"
+140,Senior Data Scientist,30+ days ago,,"Develop, design, and/or leverage advanced modeling approaches, standard techniques fordatainference and performance, and sophisticated statistical models. Perform complexdatadiscovery utilizing AI and machine learning on large scaledatalakes such...",Senior Data Scientist,OH
+141,Senior Research Associate - Data Analytics,"New!
+                3 days ago",,"Provide scientific guidance/consultation on scientific and logistical considerations of study design and conduct. Draft project deliverables (e.g., protocols, analysis plans, reports,) for senior review, and draft abstracts and manuscripts as lead...",Senior Research Associate - Data Analytics,"Canada, Mexico, or US National"
+142,"Actuarial Associate, Data","New!
+                6 days ago",,Query internal claims and policydatausing SQL and evaluatedatafor reasonability.Architect the development of an actuarialdatawarehouse supporting both rate making and reserving functions. Develop automated procedures to determine on-level premium...,"Actuarial Associate, Data",US National
+143,Data Engineer Advisor,20 days ago,,"Collaborate with internal and external stakeholders to define theirdataand business intelligence (BI) requirements; leverage knowledge of enterprise-level business intelligence technologies; accessdata, design summarydatalayers and manipulate...",Data Engineer Advisor,"Woonsocket, RI"
+144,Senior Data Engineer,30+ days ago,,Collaborate withdatascientists and analysts to understand theirdataneeds and ensuring that thedatasystems support their requirements. Optimizingdatasystems for performance and scalability to ensure that thedatainfrastructure can support the...,Senior Data Engineer,US National
+145,Senior Data Analyst,18 days ago,,"Collects and analyzesdatasets of a moderately complex nature for results and key insights, identifying trends and patterns in order to recommend actions to improve business processes. Assesses the quality ofdataby cleaning, transforming, validating...",Senior Data Analyst,US National
+146,Staff Data Engineer,22 days ago,,Help develop sustainabledatasolutions with current and leading gendatatechnologies to transform business. Lead and develop other up and coming engineers. At least 4 years ofDataEngineering experience with BigDataTechnologies: Apache Spark...,Staff Data Engineer,US National
+147,Marketing Data Analyst,17 days ago,,"Seeking aDataAnalyst in our Growth Marketing team to provide analyses, insights, anddatavisualizations that will power our strategies in customer acquisition, subscription retention, and provide feedback for our product and marketing user journeys.",Marketing Data Analyst,US National
+148,"Data Analyst, Finance",20 days ago,,"Conduct in-depth financial and on-chain cryptodataanalysis to identify trends and opportunities to optimize cost structure and product unit economics. Provide recommendations based ondatainsights to improve financial performance, product strategy...","Data Analyst, Finance",Work from Anywhere
+149,HR Data Analyst,3 weeks ago,,"Cultivatedata-driven insights that help support exploitation of strategic and tactical talent opportunities, and be a champion for adata-driven, decision-making culture within HR. Supportdatastrategy leadership in the development, assessment, ...",HR Data Analyst,"OH, MD, VA, NC, WV, MI, PA"
