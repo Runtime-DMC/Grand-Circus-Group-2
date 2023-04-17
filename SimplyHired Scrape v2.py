@@ -10,26 +10,46 @@ job_descriptions = []
 salaries = []
 
 # Define the URL of the search results page
-urls = [
-    'https://www.simplyhired.com/search?q=data+engineer&l=',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsAAQALAAAAAAAAAAAAAAAB%2F81HwAEBAQYA%2FaeOErlvA31Jzpa%2BglbxLcmo1KEzrUhHJMe160YWCh0c',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsAAgAWAAAAAAAAAAAAAAAB%2F81HwAECAQYOBgPR07QMtFXrL1KXFGuj%2Bhs%2BQJbfgM91s%2FiAfQTVs4EBD%2BRnaeGD%2F%2FFdroqi3MkxEroMa04%3D',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsAAwAhAAAAAAAAAAAAAAAB%2F9F1gQEBAQ0JC6z1mZg2LQu61e5l3YC9O5RPTh5KaKBjPRLYySelcAZYkPz3ZqTM%2BRLFRRIRBTP%2BNZTUyayhMZjcGoEpmHs30O%2FMoG7SO3W6uw%3D%3D',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsABAAsAAAAAAAAAAAAAAAB%2F9MbRwECAQscCAZ7aKf%2BIZ16M%2BrDhAPUeVAAk5VoO5m%2BUQ3F5%2BORsjgA5IF9FMW3F1ePMVqeVN58EEMghHpvt%2Bx9Ed9hUUtGKFzTeiotLZLa4f0weIPI2h01Gf6d1K%2B3uw%3D%3D'
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsABQA3AAAAAAAAAAAAAAAB%2F9MbRwEBARF5u2OUqRcYO0%2B9cXBzKqnf9mt3uvBKRUSNSJNDwX17dSq6p3iuWt8ll63JU4s5qZC3ne5zYoiQr6a%2BbZuRhppjMuC2MSjTa4JSAe0U9URWplIktFBbyJ9YTbc7n6ZuKvsJ8puOnF0B',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsABgBCAAAAAAAAAAAAAAAB%2F9MbRwECAREwCwJGm0sF9QPj%2BWzqLBxXDkp68UnlE00ff%2FRau399KjQ2wCbAZPm8GvAFTOikToT9mddULhEVlVg5jbjbQedGQwdhcNHt%2BC1028YZm7Y7xwapxmSBmY%2BeWXbY5MyPKezxCN%2FgdWN%2B9R3bA%2F9tYuqK3hkQJE8%2B',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsABwBNAAAAAAAAAAAAAAAB%2F9MbRwECAREwCwj%2BQjfFh06uZp1L3XiFdjALfpLy740easB%2BQ5oc0qu1LcwfKC6pfj4cxaSTQzy0OXc0CJxDtSzQBZFdLfF5R7uiSnx5BRa9G1JRCHV17qjSmNWGtGBVUii4%2FdP%2FpWmI7dLVGzSwpko8l6ZPMM%2BL9zDbQWaQllNXTSoFfNNL0Zt2gFra%2BdFe',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsACABYAAAAAAAAAAAAAAAB%2F9MbRwECARIwDACKnfSC6%2FOTQDcTwWdYnqIm5I%2Bttm6C4EbpNsmaPs34RJTvmR5%2Fz1t96JXXppAqKfLm8MKu61ZnUhMUSI7T51E0vGp41OR5HCbWIfW5HRgkQEC90y4D6LUhiEbhgFO9wBsVVO0IxHRCPOIfEbY0Sag%2FS7xJjYU8PTbknQJI7hdtJNE9yz%2Fwa%2F5RasS%2FQC%2BJEAA%3D',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsACQBjAAAAAAAAAAAAAAAB%2F9MbRwEDARIwDEoGBZ%2BgVRZ6SHQWyHrFraJg6TR23rX3HIkBjaZ%2FvfalgU9EObBeRGYup%2ByolZ6uCNt2ob8FbXp%2FvqBYaF7L5X1cmZKm1lJaAORaIQ8j24UsO2ZLxhvmmnTo85TfTjStuMl8J%2Fv184AiRRBi2UYRsqlEPx%2BRdppr%2FDzyeuew6k2t4mmnKPCPrZp%2F6G%2FeJJLvHjDloB36AB%2B7Apns',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsACgBuAAAAAAAAAAAAAAAB%2F9MbRwEDARIwDEoHBuVF3cQBiceBUacTZj81CJSz4d5qxqaT4m6FWovoP2smT6ASr2NY0TCY5xHO%2FnSIECcSCMxYzOhPvEFTnVxdWCHrIeJMtTx75lEQUzHrwDczJKqfoWLYbVjt2hCBBBZgB%2BLiFDeVPcFOW7i%2Bu8dy2GQST1k6fLtQpIMKSAc20FxvtJSRrdrWDzYh6ZeiUOjBNzrCzehdSjSutoXjkwU6f9B%2BN3vooOM%3D',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsACwB5AAAAAAAAAAAAAAAB%2F9OPLwEDARIwDEoHA4PvifTEiES0IXk0%2FLQG329mkEYQ9hueptfR6LG2xNPo%2F%2Fc6jR8R9IkIR%2F79w7mZ%2F%2B7d4LE5up4KXOzzvDMCx%2FuQHcQWQspgc3IH5uUIQUYSUA08%2BY1%2B3c7O7WRk%2Fbd%2Fm5cXbi5i4ED9Kt9Y6hR35w9YQq0DaPnOo1EmcGxoTweI0UGnXQUtlh8YvvU67J%2BlPvqX9fDpLkjeqL2gutvmOdmFyfGX5BrhTR70qxVVb4EUhw%3D%3D',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsADACEAAAAAAAAAAAAAAAB%2F9MbRwEDARIwDEoHDy3Q8d7ChLOWRAx1%2FSxX%2F3KqVf4s6WVXC8g5y64yuMkFXoNusPb%2BNs6kfW8B8GmQL%2BSkI6mCmx%2FnykiftDKqeY5HAcCaXVSTS5%2FSciWcrsWW595k3Qzf1WlbLsXFjY7J5pqwC2A%2F%2B5zFiH%2BFV1lhKFGoE7ieTsAOz%2FdojKEsXl4sATLjXw9CYb5n2SqfaiQcfJHVHTrGluc%2FQRRLS6BTN%2BpGkcL9RofUI3iU0bcGPXc31MAnXwUz',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsADQCPAAAAAAAAAAAAAAAB%2F9MbRwEEARIwDBoKJA0G%2FPW%2FCvpWrAhBfFNCH9l46JyoeidthTJIKJiT6DtJcDA5ekzMpbzYxP18902tfHI1K2B%2BONrvpGQXvYTDGFXsfQl5IrATGSZNEdeqwXBucxkWZGgyw58yUV7lCmwh%2BEai9tLoJSO6eyRa%2BzpVLYgnrdMJBHq8Z0OI9CMKE7xnZwEx9jx1K3AAli2Y2htnNNgt%2FVAiS6S9lM9GCnhpBvoNEOfv%2BPR%2BpTtnEUib%2BQl9GcD3L7vzmiYuhFnd',
-    'https://www.simplyhired.com/search?q=data+engineer&l=&cursor=AAsADgCaAAAAAAAAAAAAAAAB%2F9OPLwEFARYwDBwKJA1kBwVdOI3EjkcrqZyng1hyZQOfgesrsFu2qQmQrwF8Rjp%2F9yYzkW0G%2BLRCqFbk8rU7N91IMX7rPBLmTGYlxDYY5RQPYxJE2Nk3pNHK7gGJFInqJNdT3HHfan1ROKqo5OurnLxgoi1foM8Xxm3fM%2FpRT7zyEZa9qAB4vkPO5z38c87%2FwLsg2RkkjUVbmUOUQOO2qcuUSZVyg9TPr9NazCujFDpmshkZdW6wAw5nZhQlsmOqFAYAMuNBhc1bYnaHHKeNwA%3D%3D'
-#page 15
-]
-
-
+urls = ['https://www.simplyhired.com/search?q=data+engineer&l=United+States',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsAAQALAAAAAAAAAAAAAAACABC%2B6gEARCrcA3GiNAuIYjRhuxCsmzn%2F8zuv8FivUA6bl7J6N2tsGA%3D%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsAAgAWAAAAAAAAAAAAAAACABC%2B6gEBAQg%2BWbZkHeUWdvE3T5X2wdJrN0%2Fe4Rj4mIZQlBMVTGiLKvsIgaHlNcusz1x0XooM%2F9g66Lwm4%2Bo%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsAAwAhAAAAAAAAAAAAAAACABC%2B6gEBAQoQPpDoE%2Btp5zHJtt%2FpBx5u19hcT0rLJxhI%2Fw1rVRX7e%2Fbofang%2FZoVuz9aqfw36r8tIhZGyUX%2BlBPwybJyXNmP9cQEcuqnaUKEPBuy',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsABAAsAAAAAAAAAAAAAAACABC%2B6gEBAQpzPMTfWRqHyG5iyQXjiovphvTRyidieQBcvm7yonY68BpBrx1KeLTB4GyM%2BPjpcNKqVGW5zBvy8jmiLOBtoivkee7BIVPqwux%2Bje8nIo98Ou5NhDingBwQvdhkvZIep8g%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsABQA3AAAAAAAAAAAAAAACABC%2B6gECAQoWBw5iauwrhB5gr5%2BMX4enejwQPoyewGf2Rwa03hvcTNoaqnoU8C9iR1SS67fZsqi3o5E02SPFK%2F7WyKtpoXCCWdArHhjAj6YjxA52%2BIjmoK0j1W2YO1lYqnMnHeUoKrQ93pdjsIahX%2Fh5NT8PxO8%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsABgBCAAAAAAAAAAAAAAACABC%2B6gECAQoWBwnToRo0qyxWMS2%2FRPyLJgnBreS%2FUXl1LRARLZMxUldZoMDL1MHkIK6oF3d6%2FM6bDkCSpLeDTJZRZl95tjfH4mTdBFN6R5TneDX2%2BHZRtrWd5L0MuVvJKi8paCNy54u%2FhGBIgvh9G0v44F7fcRs3x0f9IjLOzFQWyy0%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsABwBNAAAAAAAAAAAAAAACABC%2B6gECAQoWBwUCd5qZBvs38U%2FSdDIStk14x3eUtHXfZnIo%2FbldOOdsxC2lsi9t%2BHxZ1Hf%2FLBrlRaP9cuKI1XurSuPo%2BCAKZBZYGl68CYLVEs0Kt3fcf2Dxgi7E9U8FcAvsNZK%2FW17faFIIzUeXsd9nbViVXCRPDZ%2BYlhouGLK%2F2mV3tHqjJn56vywLaw%3D%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsACABYAAAAAAAAAAAAAAACABC%2B6gEBARITzN1iI3K7MhZQN4vdT8Q0isNzmy1PrRJHyuvPXZo2bSGaMWd2KZdahJVFWUER9AYhODgDjQOKJVHUypdjIULC3Njf%2FnTwa%2FIJC54SwHf%2Bxs44jUWaG%2FuqTn5hKDvBykiDynOpTYoO62LvXcV3fW%2Faigym7Dw6wpgIy5fgPmi5WghxqoK%2BT8UZakE09KP3ljo%3D',
+        'https://www.simplyhired.com/search?q=data+engineer&l=United+States&cursor=AAsACQBjAAAAAAAAAAAAAAACABC%2B6gECARdqCAP3s9uSSS0pJ3Wxok1mu7WZoy8EAEQSQnqJQfnMxlhDkpf4CI3Id2vNPmn%2FzCayH%2B8Cp7laMX%2B0uu9hrPSMPrYM%2FTIUIDCvJZAWKNw%2FrQsUQE1X9cMR27Z8cPyvKXiKl0prFKIa3dSuN3%2B8saTUXyQoxm%2Fpfki4%2F9OqVaRZ%2Bn5U8GB9tFaZdu2kB%2FOEFm%2Bsem4u773x5l8%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsAAQALAAAAAAAAAAAAAAACABPLJAEAJfikoMJg6IFiXmMytwFSy9jq%2FuRXZSps7r8LnOn8FbA%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsAAgAWAAAAAAAAAAAAAAACABPLJAEAB12S%2BorKyKmtJ6GF9I%2BbXCJ%2BZGRpAAvsq%2B9JTRzCkny11TMTTCsJOKrZfDkvCMNeZKbDfjw%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsAAwAhAAAAAAAAAAAAAAACABPLJAEBAQcUygXHm0YJyTZQZs7YYpCieXzRId%2BRCrUhU1PuhzmVgYdCktUo8DP4yMF42GzFppiOjsbArgipyMZnxgEsyeT%2BYe2577vRCQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsABAAsAAAAAAAAAAAAAAACABPLJAEBAQduFDJ5KOM5ZZgJrXOixuIJPsNDgfByEl%2Bt5f%2BqI1xbKSAiSMVD%2Fdb%2FEh2o%2B4vgGCGGDtK1DIoTNiGcaokiPnkLFgL3vzWG64xKT39Mp3Rsrezo8L5LZC0gFIk%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsABQA3AAAAAAAAAAAAAAACABPLJAECAQ8sBgSsp2bxgyOoYdOoIkxK%2FE4A9KuHixr63Tj7%2FO%2BzLTCA0FAAdIVe7KTbwz5D%2FbCvBDlcr7vC4sadM4ZR7vO5xTKOnP6FG1wFGJAQb4XEmj4J8a6cpG%2Fko2XW%2FmxpUxXovXMu7qxO9GlzhQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsABgBCAAAAAAAAAAAAAAACABPLJAECAQ8sDAMxYHjvrI8CXuYrEBiRlDW0uC%2FXdhYCqiBhbDb0A5gfKvO5Y62upXStL4idOpuEY59gauobM2Ejf%2F3EZwsQJ8sj5jTLekPq0YAQSlQmIqcprZ8PrYBBO1pIQWjtI8t%2FpRz2HLGlSbN66kj6sut7DyNqElUX1Q%3D%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsABwBNAAAAAAAAAAAAAAACABPLJAECAQ8oDk%2FB4SjU226ItCQAcUK5EYoGY6u4LoSolXl9ZNjl3ZUarqPb8E1TfnPZfro7ZyCriuOEx40R7GcXpNxsEMawRf2lATdWxXNoCApolj3mZmD1%2Fnttd24CAms6qMslAZOQAqgBUCBax09WZrEJIT4qZ8Y4psUVPig3OndmXfXkQexV',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsACABYAAAAAAAAAAAAAAACABPLJAECARMoDArRyrcpvOUKG7J4qnk3zPRvOmikYUbXBn90cnp4FXLJx6Einyvnvu3MJO0frJ4Pma8YL68GYXofpRJQF2JChxWO3oYrjf0ukd1mt7rUG%2BeFH4i4LLCSk%2FKDt6TedCqSDtDpL6grrjaZaQK6DE4lOHN08MQfXCnVbQk3yLopW5FA%2FsWWSx2SCHc4aqBp0mU%3D',
+        'https://www.simplyhired.com/search?q=data+analyst&l=United+States&cursor=AAsACQBjAAAAAAAAAAAAAAACABPLJAECARMoDAdj6XLcB9FUy7CKqrEdzFK%2FFqMZqpGh5bYTZD5Pef%2FgyaGi8LqmnigfJU3Uheoc%2BscBvsXeJpeAbbozs5o4cQ5UqDzzechAxyMamjxaAuTnVHiEMDDbcuLBqR61ZAjNrgeJ1EjkcLUNJD5mvb6LenBtbiXCnmSV9D3jOP4VpdQJEa2dB6iJ9H%2Fw0D2zgozkiaKV13Xl3u9h%2FE8%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsAAQALAAAAAAAAAAAAAAACABL5hAEAAa4UYU3OVwKyEDdWz1hdew%2B35Gryq1YnJgaDRA%3D%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsAAgAWAAAAAAAAAAAAAAACABL5hAEBAQsHDJRfFbKxma%2BIvAsZ%2B49GbJiIR2EL%2BE%2FjuhBTpuOHKpfjlbwWZ2PDYkrQm1ba9RSb5bhgBJU%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsAAwAhAAAAAAAAAAAAAAACABL5hAECAQsYBgrSAgz5dtWCt%2BM9NPtfDiSldtpP6e3IKfBwJm%2FNTSVkG5YYeBEyZJd9aOrhT0MYcEjnHW3xCzAgK%2FV1KLmvWPG%2FoZkeWw%3D%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsABAAsAAAAAAAAAAAAAAACABL5hAEBARIrBHixl5xe21w1Sq4VFeqaTI%2Ben7jBtke2XUofkjL3qa0DnetpN%2BkcjYt9U6PKVYBsfsVF%2BtVJtIVtco9cquG6YWTJwi7h4t3nN1xJoBrzDZv1fzPm6WA%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsABQA3AAAAAAAAAAAAAAACABL5hAEBARMAsWBENZAgj05%2Fg6wPS5fAwXAs1Vy7oIHKrYhjiLtHycX7nq40ddv82UCaHhWGLb60PcVBj%2FuHGTvK6N9NAIHfWE0NUNbzp1AUEdKIlD0MDyZMFjkYwFeCF31Gm%2FIlY3%2BV8zU7OBuN2JfV',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsABgBCAAAAAAAAAAAAAAACABL5hAECARMqCHgqdkx5MSJHzumXaAvuSzOXgJICG1o8ok9yylVJngEOwmrJi6RwRcGIS0W9AEEd9I%2FjBKV6Mz7j3GNPr9ZuMEMkszvTK5%2Fu8kcDxXENLnKnauZlVtYMh2eY51h7HcV5q%2Fb8ub05k9hUq77POykCkr4QD5npiQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsABwBNAAAAAAAAAAAAAAACABL5hAECARMqCAVl%2Fly%2FFe0WYJMFslr32ujKoWfIjNf5OLTHLaipXBnhICvb8W9WXAOzRRSp3%2BLS3por1aJfpCq%2FqOsI5PjgC35nmFqm%2BPVRekDQMVwgGrKvpOd1kRWEG3o8An7UrpQ5VbNVYCtirGelvIldbKiwKKo2ErGurkyY0tBnWpOEvxERoqJ%2FVqE%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsACABYAAAAAAAAAAAAAAACABL5hAECARMqDBNDqM33ei2wu6F33rqoDFP5cXCu5iWKowDywtWLo8FFqOgZ4BoMxcqcpYu%2B%2F%2Flqmp2SeN9MwP%2FfYLR3GINww7biXKhLGb8wI4FmILtOmD1IN5rxfOOwGdLm1Gu7JGcH5my1Pc2EUpOA93EmQ6FGsq1aCmyJUZ%2BHR0goP32SnCuadsksvw0I5Wz91PxRZqJwjQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+architect&l=United+States&cursor=AAsACQBjAAAAAAAAAAAAAAACABL5hAEDARMqD4QBBxyMWdtgqaBx0Kfh4JoTG35jvBhLklcENpSNQyeYk%2BhjU6M1v9Je5hl%2Bb8TS6k0ydTBlLdEXIHL615llkNFmHN6e16SzZ5GhnJWgXdDe16A%2BVEUPkwFGMXXAtkQegGEsWwUllSDEBNAzwAE6a3cVloeaQw124DuDH%2B%2Fkfv5Bnx0wrRvn6g7RrMjRpp36eCNiAiL58FlFMCux',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsAAQALAAAAAAAAAAAAAAACABBTnQEAB0Me9IAbrRHqIaAgEp8MUoDfOfaLqrcbLlLmcyMHpORO',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsAAgAWAAAAAAAAAAAAAAACABBTnQEBAQcbdIpSlHQJ%2BreOTnXsXpmd235EVraRkio2CnWqV%2FhP74xOXUnKoKXobtsTqYiQ%2F1iDCT1L',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsAAwAhAAAAAAAAAAAAAAACABBTnQECAQcgBgTPNLFbVmqEH5nZQ%2BS4RXZxjhphFJzt8YYpJmQIsioPD6WTVflPbA49loKjyig3cNEVbuB9Y0skTLa2ydvqV%2F4GrQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsABAAsAAAAAAAAAAAAAAACABBTnQEBAQcAsnRxTxhNQRyOjpzIoZLwXOjW2ERvS8UB14Z9sELDQ2IWHJZFZp5tyforoXTdYXRqx1lBWdbICgo6kw%2BfCisj%2FVEL5V%2BhngRxSounE%2FuEwq%2BwYCDRWQ%3D%3D',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsABQA3AAAAAAAAAAAAAAACABBTnQEBAQ9Cm5T4IU3cz%2F5Xfr8scNOJw5z97Prm6neCw%2BnRRGRZEtWQnskQ%2BequJ7Es08ywAdsn1oiBJ5sSFVhS2%2BcfahW8cpqp6%2FccUiJ%2BaNmPcKHpNq6zAyr5XF53bqzGuMEkCw%3D%3D',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsABgBCAAAAAAAAAAAAAAACABBTnQECAQ8iBwivH23%2BqCkOAfVU6pUnRoFLihHWa1N%2FXCqyB722YJt5XWpHRPmTBfsCmlH1ywctKLDRiitUDI1Ejharu0WT%2FcndtQvmav3wY%2BFaxYLG26VBLBvxRuYfh3Gdk8wZoXyHbIAVIkh%2FvWsRLQEgbA%3D%3D',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsABwBNAAAAAAAAAAAAAAACABBTnQECAQ8gCAOrN9RjruxSOvWoHZC%2FmIGsmuCGa9rJJ%2FxSRsyRXiviN8XN4xG3OAiFK7HFzQe5Pgr9kuhTkyrNQW3TieiHSfm%2FisbP3LyL2a0QHams%2BtMpEWwWBuyHGpacicOS1BbR4%2FtkxQYNZUQS7ul9k057tKUPTpVXJXZb6GOLW38v',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsACABYAAAAAAAAAAAAAAACABBTnQEBARgeVpv%2FkADjAQpiJoJRk1%2BL4mHVHBzmAQrfW%2Faq16qN2e%2FbQmzaRx1C642DOeVK0fCiCNRiykyhkPu39NnG6GHAk%2BJn9x1VXDNU%2BgmzYqGI%2Fo%2BXD221ZdF7Phu3%2B0Cr9QjIE49yWZejgqaJA18DgeKsYWbOEYF7CJzHEyWJ8ELinzWAdvAySE6g4RQ%3D',
+        'https://www.simplyhired.com/search?q=data+scientist&l=United+States&cursor=AAsACQBjAAAAAAAAAAAAAAACABBTnQEBARgDlPsgQOzc%2FlzBaBPAv6ta66FC3%2FXBv4g8sEv9rCvMfmAyNSkPJOmh4F8n4PwLjSRDo0BSqYWJ8TaqdIuyJ07n2WoDgvLMCO5Nmvf1SApi%2F8%2FbNfBd7nyWRZkCIN7M68IH3jABkdA3dLcbPRx7DbKvjBBUvi8uxn4%2FpEA%2Bd2OsayCMfpl6uvOrMXJbE%2Fe9m4A%3D']
 
 
 for count, url in enumerate(urls):
@@ -58,8 +78,6 @@ for count, url in enumerate(urls):
     except AttributeError:
       salary=None
     
-    
-
     job_titles.append(job_title)
     company_names.append(company_name)
     job_descriptions.append(job_description)
@@ -81,7 +99,5 @@ df = pd.DataFrame(
   'salary': salaries
 })
 
-# df.head(200)
-#208 rows of data at 15 pages
-
-df.to_csv('simplyhiredjobs.csv', index=False)
+df.to_csv('simplyhiredjobs.csv', index=True)
+print('Done!')
