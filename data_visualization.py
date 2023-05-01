@@ -226,11 +226,19 @@ def convert_salary(salary):
 
 # Process the DataFrame to prepare the data for the box plot
 def data_processing(df):
+    #Applies the get_job title function
     df['title'] = df['title'].apply(get_job_title)
+    #The lambda function checks if the value in each row of the column is not null (pd.notnull(x)), and if it's not, it converts the value to lowercase using the lower()
+    #method of the string object. If the value is null, it leaves it unchanged.
     df['salary_type'] = df['salary_type'].apply(lambda x: x.lower() if pd.notnull(x) else x)
+    #Converts the salary_median column of the DataFrame df to a numeric data type using the pd.to_numeric() function. The errors='coerce' paramter tells the function
+    #to convert any non-numeric values to NaN.
     df['salary_median'] = pd.to_numeric(df['salary_median'], errors='coerce')
+    #The lamba function takes the salary_type and salary_median values from each row and passes them to the get_salary_types function.
     df['salary_type'] = df.apply(lambda row: get_salary_types(row['salary_type'], row['salary_median']), axis=1)
+    #This line applies the get_job_type function to the 'type' column of the DataFrame.
     df['type'] = df['type'].apply(get_job_type)
+    #This line drops any rows from the DataFrame df that have missing values (NaN) in the title, type, salary_type, or salary_median columns.
     df = df.dropna(subset=['title', 'type', 'salary_type', 'salary_median'])
     
     # Add these lines to update the DataFrame
