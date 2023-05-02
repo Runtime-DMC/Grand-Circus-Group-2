@@ -1,4 +1,4 @@
-mport pandas as pd
+import pandas as pd
 
 # Read the CSV files
 dice = pd.read_csv("C:/Users/battl/Documents/Combined CSVs/dice_cleaned.csv")
