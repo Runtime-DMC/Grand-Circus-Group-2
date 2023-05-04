@@ -1,0 +1,345 @@
+skill,count
+SQL,575
+Python,556
+Engineering,213
+AWS,208
+Excel,190
+Tableau,188
+ETL,148
+Problem-solving,138
+Statistics,137
+Microsoft,134
+Spark,130
+IT,129
+Research,128
+Azure,126
+AI,118
+ML,115
+Cloud,111
+Snowflake,105
+Java,98
+Integrity,91
+Hadoop,68
+Scala,68
+Kafka,65
+Security,65
+Oracle,64
+Analysis,61
+GCP,54
+SAS,54
+Airflow,52
+Access,48
+NLP,46
+CI-CD,46
+NoSQL,39
+Informatica,39
+Kubernetes,37
+Docker,34
+troubleshooting,33
+Hive,32
+Glue,24
+JavaScript,24
+Pandas,23
+SSIS,22
+KPI,20
+Jira,19
+Scrum,17
+Alteryx,17
+MongoDB,17
+SPSS,16
+Sagemaker,15
+Adobe,15
+Power BI,14
+Tensorflow,14
+SAP,14
+Matlab,13
+Troubleshooting,13
+Teradata,12
+Computer,12
+Regression,12
+Perl,10
+Athena,10
+R,10
+Data Science,9
+Data Analysis,8
+Data Management,7
+MDM,7
+Pytorch,7
+SharePoint,7
+Data Modeling,6
+BQ,6
+Data Mining,6
+Pyspark,6
+Business Intelligence,6
+Analytics,6
+Github,6
+DBA,6
+Data Governance,5
+Deep Learning,5
+OCR,5
+Stata,5
+Image Filtering,5
+BInary Morphology,5
+Perspective-Affine Transformation,5
+Bitbucket,5
+t-SQL,5
+Data Integration,5
+Ruby,5
+ADLS,5
+Data Architect,4
+Healthcare,4
+SQL Server,4
+Communication,4
+Consulting,4
+Edge Detection,4
+Unsupervised Learning,4
+PCA,4
+Analytical,4
+Foundation,4
+Queries,4
+Big data,4
+Big Data,3
+SaaS,3
+Data Architecture,3
+Text Mining,3
+Postgres,3
+Predictive Analytics,3
+Pig,3
+Mathematical,3
+Networks,3
+Kaggle,3
+Unix,3
+Systems,3
+Databricks,3
+Flink,3
+API,3
+Full stack,3
+Data Warehouse,2
+Claims,2
+DBT,2
+Azure SQL,2
+Data Visualization,2
+Arima,2
+Sarima,2
+Classical ML,2
+Statistics Structured,2
+Performance Metrics,2
+Data Pre-Processing,2
+Neural or NLP,2
+AB Testing,2
+Data,2
+Probabilistic,2
+MLops,2
+Statistical Analysis,2
+Data Analytics,2
+C+,2
+C++,2
+DBMS,2
+Modeling,2
+Statistical Modeling,2
+Bayesian Model,2
+Impact Model,2
+Neural Networks,2
+Sklearn,2
+Rest APIs,2
+Docker-Kubernetes,2
+Azure-AWS Clouds,2
+Tracking,2
+Developer,2
+ICS,2
+Accounting,2
+Engineers,2
+Programming,2
+Computer Science,2
+Regulatory Compliance,2
+Data Mapping,2
+Quality Improvement,2
+Researching,2
+Tracking.,2
+Azure Data Factory,2
+Data Warehousing,2
+Scikit Learn,2
+AI-ML,2
+PySpark,2
+AWS Cloud,2
+Planning,1
+Transformation,1
+Policy Management,1
+Servicenow,1
+CDSM,1
+Hospital,1
+Insurance,1
+Systems Architecture,1
+Plsql,1
+Azure Security,1
+Devops,1
+Capacity Management,1
+Erwin,1
+HDFS,1
+Json,1
+GIS,1
+Agile,1
+GCP Sq,1
+GCP Cloud Data,1
+Master Data Management,1
+Data Warehouses,1
+Data Pipelines,1
+Geospatial,1
+C-C++,1
+Scientist,1
+Vertex AI,1
+Phd,1
+ML Model,1
+Natural Language Processing,1
+Advanced Queries,1
+R Program,1
+Enterprise Data,1
+Data Manipulation,1
+Clustering,1
+D3.JS,1
+Elastic Search,1
+Mongodb,1
+Multivariate Testing,1
+Business Objects,1
+Cluster Analysis,1
+Cloud Computing,1
+Automated Pipeline Building,1
+Pythoning,1
+Bert,1
+Laboratory,1
+Natural Language Processing-Computer Vision,1
+AI Solution,1
+Telematics,1
+AWS Services,1
+Legal,1
+Network,1
+scikit-Learn,1
+Domino,1
+Embedded,1
+Application,1
+Web,1
+Hadoop Ecosystem,1
+Sales,1
+Director,1
+Physics,1
+emass,1
+xacta,1
+Stem,1
+Ds,1
+Tesseract,1
+Keras,1
+Google Colab,1
+Engineer,1
+Management,1
+Data Modelling,1
+B2B,1
+Relational Databases,1
+Securities,1
+Data Models,1
+Dba,1
+Interim MMIS,1
+Datalynx,1
+Dmp,1
+Infor Lawson,1
+Supply Chain KPIs,1
+Nursing Par Optimization,1
+Community Health,1
+Marketing Data Analyst-Remote,1
+Validate Data,1
+MS Word,1
+Financial Industry,1
+Preparing Reports,1
+Code,1
+Process Improvement,1
+Data Wrangling,1
+AIrflow,1
+Shell Scripting,1
+Business Analyst,1
+Stakeholders,1
+Risks,1
+MS Office,1
+MS SQL,1
+Data Collection,1
+Data Conversion,1
+Project Management,1
+Business Analysis,1
+IT Support,1
+Software Development,1
+Excellent Communication,1
+Software Engineering,1
+Remote,1
+Information Systems,1
+Public Health,1
+System Analysis,1
+Power Automate,1
+Powerautomate,1
+GSM,1
+Natural Language Processing-Computer Vision,1
+Jenkins,1
+Cloud AWS,1
+RDS,1
+AWS Redshift,1
+Synapse Analytics,1
+Parque and Delta Tables,1
+Azure SDK,1
+Azure Engineer,1
+Fivetran,1
+Transformations,1
+Rows,1
+Infrastructure,1
+Data Infrastructure,1
+Architect,1
+Spark Azure,1
+Snowflakes,1
+Dataiku,1
+Data Migration,1
+Snow Flake,1
+SQL Administration,1
+Amazon Web Services,1
+Modeling-Data,1
+Google Cloud,1
+Time Management,1
+Build Models,1
+Collaborate,1
+Data Dictionarying,1
+UX,1
+MMM,1
+Marketing Mix Model,1
+Utility,1
+Computer Vision,1
+Bayesian Methods,1
+NLP Models,1
+AI Development,1
+Metadata,1
+Principal Data Scientist-ML Engineer,1
+Creating Statistical or Machine Models,1
+Numpy,1
+Predictive Modelling,1
+Team Lead,1
+Azure Databricks,1
+tSQL,1
+AWS Environment,1
+Cloud Solutions Development,1
+PL,1
+3D modeling,1
+Helpdesk,1
+AS-400,1
+NetSuite,1
+Basis,1
+Hana,1
+Data modeling,1
+Axiom,1
+security,1
+cybersecurity,1
+iOS,1
+Cisco,1
+Angular,1
+Linux,1
+Biobank,1
+NHS data,1
+EHR-phenotyping,1
+Business intelligence,1
+Data science,1
+Data mining,1
+Quality control,1
+Edtech or Gaming industry,1

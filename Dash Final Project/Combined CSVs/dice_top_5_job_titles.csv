@@ -1,0 +1,335 @@
+index,title,company,Skills,city,state,posted_date,type,salary,type.1,sal_min,sal_max,sal_median,origin
+0,Data Architect,Cohesive Technologies LLC,Data Architect,Mountain View,CA,4/14/2023,"Contract: Independent, Corp-To-Corp, W2, Long term",,,,,,dice.com
+1,Data Architect,Ekcel Technologies Inc,Data Architect,Chicago,IL,4/12/2023,Full Time,Depends on Experience,,,,,dice.com
+2,Data Architect,Randstad Technologies,Data Architect,Charlotte,NC,4/12/2023,Contract: W2,USD51 - USD61,hourly,51.0,61.0,56.0,dice.com
+3,Data Architect,Randstad Technologies,Data Architect,Tallahassee,FL,4/15/2023,Contract: W2,USD75 - USD90,hourly,75.0,90.0,82.5,dice.com
+4,Data Architect,Radus Tek Services,"Data Architect, Data Analysis, Data Governance",Tallahassee,FL,4/14/2023,"Contract: Independent, W2",Depends on Experience,,,,,dice.com
+5,Data Architect,InfoTech Spectrum Inc,"Data Architect, Azure",Chicago,IL,4/11/2023,Full Time,$0 - $0,,,,,dice.com
+6,Data Architect,Prudent Technologies and Consulting,"Data Architect, Data Migration, Clinical Data Experience, Data Mapping",,,4/11/2023,"Contract: Corp-To-Corp, W2, Independent, 2 Month(s)",$60 - $70,hourly,60.0,70.0,65.0,dice.com
+8,Data Architect,Randstad Technologies,Data Architect,Charlotte,NC,3/31/2023,Contract: W2,USD60 - USD70,hourly,60.0,70.0,65.0,dice.com
+13,Data Architect,"Zachary Piper Solutions, LLC","Architect, Data Architect, Data Modeling",Raleigh,NC,3/31/2023,Full Time,,,,,,dice.com
+14,Data Architect,Prophecy Consulting,"Data Governance, Data Architect, Data Management, Planning, Oracle, Transformation, Policy Management",Irvine,CA,4/12/2023,"Contract: W2, Corp-To-Corp, Independent, 12 Month(s)",$70 - $80,hourly,70.0,80.0,75.0,dice.com
+15,Data Architect,"Capgemini America, Inc.","Data Architect, NoSQL, Data Architecture, Data Governance, Data Modeling, Data Security, Modeling Data",New York,NY,4/10/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+16,Data Architect,Nityo Infotech Corporation,"Data Architect, Postgres, Python, SQL, Data Pipelines Near, Oracle",Pittsburgh,PA,4/11/2023,"Contract: Corp-To-Corp, 12 Month(s)",$70+,hourly,70.0,,70.0,dice.com
+18,Data Architect,SOHO Square Solutions,"Servicenow, Power BI, Data Architect, CDSM",Alpharetta,GA,4/10/2023,"Contract: W2, Independent, Corp-To-Corp, 12 month(s)",,,,,,dice.com
+20,Data Architect,Blue Rose Technologies LLC,"Data Architect, ETL, Data Warehousing, Data Lake, GCP, Google Cloud",,,4/13/2023,"Contract: Independent, Corp-To-Corp, W2, 12 Month(s)",Depends on Experience,,,,,dice.com
+21,Data Architect,"Activesoft, Inc.","Healthcare, Hospital, Insurance, Claims, Data Architect",Cincinnati,OH,4/10/2023,"Contract: W2, 6 Month(s)",Depends on Experience,,,,,dice.com
+24,Data Architect,InfoTech Spectrum Inc,"Data Architect, SQL, Oracle, .Net Platform, Data Mapping, Data Dictionary, Data Migration, Data Security, Data Network",,,4/7/2023,"Contract: W2, 24 Month(s)",Depends on Experience,,,,,dice.com
+26,Data Architect,Blue Rose Technologies LLC,"Data Architect, AWS, Azure, NoSQL, Big Data, SQL, Erwin",New York,NY,4/12/2023,Full Time,Depends on Experience,,,,,dice.com
+27,Data Architect,"Synergetic Information Systems, Inc","Data Architect, ETL",Washington,DC,3/21/2023,Full Time,Depends on Experience,,,,,dice.com
+28,Data Architect,Peterson Technology Partners,"Data Architect, Data Architecture, Data Modeling, Data Transformation, Data Warehousing, Oil and Gas",,,3/31/2023,"Contract: Independent, Corp-To-Corp, W2, 12 Month(s)",Depends on Experience,,,,,dice.com
+32,Data Architect,U.S. Tech Solutions Inc.,"Plsql, Big Data, Data Architect, Hadoop",Atlanta,GA,3/31/2023,"Contract: W2, 5 Month(s)",Depends on Experience,,,,,dice.com
+35,Data Architect,Enquizit,Data Architect,,,4/14/2023,Full Time,Depends on Experience,,,,,dice.com
+40,Data Architect,Randstad Technologies,Data Architect,New York,NY,3/8/2023,Full Time,USD85 - USD100,hourly,85000.0,100000.0,92500.0,dice.com
+43,Data Architect,"Computer Enterprises, Inc.","Data Architect, Oracle, Informatica, Kafka, MQ, API, ETL",Pittsburgh,PA,4/3/2023,"Contract: W2, 5 Month(s)",$76 - $82,yearly,76000.0,82000.0,79000.0,dice.com
+48,Data Architect,SUNRAY INFORMATICS,"SQL, ETL, NoSQL, Oracle, Data Architect, Master Data Management, Data Management, Tableau, Power BI, Azure, Azure SQL, Data Mining, Data Warehouses, Data Visualization, Data Warehouse, Data Pipelines",,,4/5/2023,"Contract: Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+51,Data Scientist,"Engage Partners, Inc.",AI,New York,NY,3/27/2023,Full Time,Depends on Experience,,,,,dice.com
+52,Data Scientist,Darwin Recruitment,Data Engineering,Chicago,IL,4/15/2023,Full Time,$100000.00 - $120000.00 per annum,yearly,100000.0,120000.0,110000.0,dice.com
+53,Data Scientist,ABN TECH CORP,"Python, ML, Arima, Sarima",San Francisco,CA,4/14/2023,"Contract: Corp-To-Corp, W2, Independent, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+54,Data Scientist,"Technology Solutions Provider, Inc.","Data Science, Python",,,4/13/2023,Full Time,Depends on Experience,,,,,dice.com
+58,Data Scientist,Denken Solutions,"Classical ML, Statistics Structured, Performance Metrics, Data Pre-Processing, Neural or NLP, AB Testing",,WI,4/14/2023,"Contract: W2, Corp-To-Corp",USD Depends on Experience,,,,,dice.com
+60,Data Scientist,Amtex System Inc.,"Python, Java, AWS, GCP, C/C++, Data, Perl, BQ, Scientist, Vertex AI",San Jose,CA,4/13/2023,"Contract: Corp-To-Corp, 6 month(s)+",,,,,,dice.com
+62,Data Scientist,"Zachary Piper Solutions, LLC",,McLean,VA,4/15/2023,Full Time,,,,,,dice.com
+65,Data Scientist,Eliassen Group,,Charlotte,NC,4/13/2023,Contract: W2,,,,,,dice.com
+69,Data Scientist,Yash Solutions LLC,"Data Scientist, ML, Python, AWS, Sagemaker, Athena, Glue, SQL",Greenville,SC,2/28/2023,Contract: W2,Depends on Experience,,,,,dice.com
+70,Data Scientist,Kforce Technology Staffing,,Cincinnati,OH,4/13/2023,"Contract: W2, Temp",$47 - $51 hourly,hourly,47.0,51.0,49.0,dice.com
+71,Data Scientist,IT Concepts Inc,"Statistical Analysis, ML, ML Model, Natural Language Processing, NLP, SQL, Advanced Queries, Python, SAS, R Program, Enterprise Data, Data Manipulation, Data Visualization, Data Analytics, Tableau",Woodlawn,MD,3/2/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+72,Data Scientist,Kforce Technology Staffing,,Redmond,WA,4/11/2023,"Contract: W2, Temp",$55 - $70 hourly,hourly,55.0,70.0,62.5,dice.com
+73,Data Scientist,Peterson Technology Partners,Data Mining,,,3/31/2023,"Contract: Corp-To-Corp, W2, Independent, 12 Month(s)",Depends on Experience,,,,,dice.com
+77,Data Scientist,Indotronix International Corp,"Analytics, Python, SQL",Portland,OR,4/4/2023,"Contract: W2, 6 Month(s)",$100 - $110,yearly,100000.0,110000.0,105000.0,dice.com
+78,Data Scientist,CMCI,"Data Scientist, Business Objects, Cluster Analysis",,,3/6/2023,Full Time,Depends on Experience,,,,,dice.com
+79,Data Scientist,Apex Systems,,Richmond,VA,4/6/2023,Full Time,,,,,,dice.com
+81,Data Scientist,Motion Recruitment,,Los Angeles,CA,4/7/2023,Full Time,,,,,,dice.com
+86,Data Scientist,Xcelo Group Inc,,Dallas,TX,4/4/2023,"Full Time, Part Time, Contract: W2, Independent, Corp-To-Corp",,,,,,dice.com
+88,Data Scientist,Robert Half,"Python, Computer, SQL, Mathematical",Chicago,IL,4/14/2023,Full Time,$100000.00 to $125000.00 yearly,yearly,100000.0,125000.0,112500.0,dice.com
+89,Data Scientist,Dew Software,"Data Scientist, ML, Communication Skills, Data Architecture, Problem - Solving Skills, Python, Data Engineering",,,2/14/2023,Contract: W2,Depends on Experience,,,,,dice.com
+93,Data Scientist,"TSR Consulting Services, Inc.","Python, Matlab, Oracle, SQL, Consulting",Princeton,NJ,4/13/2023,"Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+97,Senior Data Scientist,Eliassen Group,,Herndon,VA,4/7/2023,Contract: W2,,,,,,dice.com
+98,Data Scientist,Odesus,"AI, AI, Python, R, SQL, DBMS, SAS, Stata, SPSS, Sagemaker, Tensorflow, Kafka, Spark, Hadoop",Los Angeles,CA,4/10/2023,Full Time,"$120,000 - $175,000",yearly,120000.0,175000.0,147500.0,dice.com
+100,Data Scientist,Jobot,,New York,NY,4/4/2023,Full Time,"$120,000 - $140,000 per year",yearly,120000.0,140000.0,130000.0,dice.com
+102,Data Scientist,Robert Half,"SQL, Excel, Python",Cherry Hill,NJ,4/9/2023,Full Time,$100000.00 to $120000.00 yearly,yearly,100000.0,120000.0,110000.0,dice.com
+103,Data Scientist,Motion Recruitment,,Houston ,TX,3/29/2023,Full Time,,,,,,dice.com
+104,Data Scientist,Maddisoft,,Houston,TX,3/28/2023,"Full Time, Part Time, Contract: W2, Independent, Corp-To-Corp",,,,,,dice.com
+106,Data Scientist,Apex Systems,,Indianapolis,IN,3/28/2023,Full Time,,,,,,dice.com
+107,Data Scientist,ApTask,"Python, SQL, Bert, NLP",,,4/11/2023,"Contract: Corp-To-Corp, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+112,Data Scientist,E-Deft,,,,3/28/2023,"Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+114,Data Scientist,Novateur Technologies Inc.,"Statistical Modeling, Bayesian Model, Impact Model",Dallas,TX,4/4/2023,"Contract: W2, Independent, Corp-To-Corp, 6 Month(s)",Depends on Experience,,,,,dice.com
+118,Data Scientist,Global Data Consultants,,Carlisle,PA,3/24/2023,Full Time,,,,,,dice.com
+119,Senior Data Scientist,Aerospace Corporation,,Chantilly,VA,4/6/2023,Full Time,,,,,,dice.com
+125,Data Scientist,TEKHiring,ML,Austin,TX,3/17/2023,"Contract: W2, Independent, 1 Year(s)",$40 - $50,yearly,40000.0,50000.0,45000.0,dice.com
+126,Data Scientist,Robert Half,"Python, Mathematical",Johnston,IA,4/4/2023,"Contract: Independent, W2",,,,,,dice.com
+136,Data Scientist,Veear,"NLP, SQL, Tableau",Sunnyvale,CA,3/24/2023,"Contract: W2, Corp-To-Corp, Independent, 12 Month(s)",$45 - $90,yearly,45000.0,90000.0,67500.0,dice.com
+138,Data Scientist,Info Dinamica Inc,"ML, Image Filtering, Binary Morphology, Perspective / Affine Transformation, Edge Detection, Tracking, Regression, Unsupervised Learning, Pca",Santa Clara,CA,3/28/2023,"Contract: W2, Independent, Corp-To-Corp, 13 day((s))",,,,,,dice.com
+139,Data Scientist,FirstParty,"Python, SQL",,,3/24/2023,"Contract: W2, 12 Month(s)",$70 - $90,yearly,70000.0,90000.0,80000.0,dice.com
+141,Data Scientist,MAXAR Technologies,,Arlington,VA,3/13/2023,Full Time,,,,,,dice.com
+144,Data Scientist,Apex Systems,,Lenexa,KS,3/14/2023,Full Time,,,,,,dice.com
+147,Data Scientist,"SystemDomain, Inc.",,Hartford,CT,3/9/2023,"Full Time, Part Time, Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+154,Senior Data Scientist,Eliassen Group,,Charlotte,NC,3/16/2023,Contract: W2,,,,,,dice.com
+157,Data Scientist,AccruePartners,"Python, Domino",,,3/16/2023,Contract: W2,,,,,,dice.com
+159,Senior Data Scientist,Infinity Consulting Solutions,"Python, SQL, Application, Modeling, Web, Consulting, ICS, Accounting",Lisle,IL,3/23/2023,Full Time,,,,,,dice.com
+163,Data Scientist,Motion Recruitment,,Arlington,VA,3/3/2023,Full Time,,,,,,dice.com
+164,Data Scientist,Eliassen Group,,Stamford,CT,3/2/2023,Contract: W2,,,,,,dice.com
+165,Data Scientist,EKIN Solutions Inc,"ML, Hadoop Ecosystem, Spark",,,3/16/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+166,Senior Data Scientist,Centraprise Corp,Python,,,3/2/2023,"Full Time, Contract: W2",$DOE,,,,,dice.com
+171,Data Scientist,Robert Half,"It, Engineering, Computer, SQL, Python, Analysis, Networks",Houston,TX,3/10/2023,"Contract: Independent, W2",$61.75 to $71.50 hourly,hourly,61.75,71.5,66.63,dice.com
+185,Senior Data Scientist,Infinity Consulting Solutions,"Analytical, Engineer, Computer, Research, Consulting, ICS, Accounting",Houston,TX,3/11/2023,Full Time,,,,,,dice.com
+187,Data Scientist,Motion Recruitment,,San Diego ,CA,2/15/2023,Full Time,,,,,,dice.com
+188,Data Scientist,Motion Recruitment,,Torrance ,CA,2/15/2023,Full Time,,,,,,dice.com
+189,Data Scientist,Motion Recruitment,,Carlsbad,CA,2/15/2023,Full Time,,,,,,dice.com
+190,Data Scientist,Motion Recruitment,,Irvine ,CA,2/14/2023,Full Time,,,,,,dice.com
+191,Data Scientist,Motion Recruitment,,Los Angeles,CA,2/14/2023,Full Time,,,,,,dice.com
+192,Data Scientist,SAIC,"Management, Systems, Python, NLP",Macdill AFB,FL,2/24/2023,Full Time,,,,,,dice.com
+193,Data Scientist,AccruePartners,"It, Engineers, Engineering, Computer, Systems, Python, SQL",Fort Mill,SC,2/24/2023,Full Time,,,,,,dice.com
+195,Data Scientist,BNY Mellon Corporation,"Analysis, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+196,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+197,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Lake Mary,FL,2/23/2023,Full Time,,,,,,dice.com
+200,Data Analyst,QED National,Data Analyst,New York,NY,4/12/2023,"Contract: W2, Corp-To-Corp, 6 month(s)",$45 - $53 per hour,hourly,45000.0,53000.0,49000.0,dice.com
+201,Data Analyst,Randstad Technologies,Data Analyst,Schertz,TX,4/12/2023,Full Time,"USD70,000 - USD80,000",yearly,70000.0,80000.0,75000.0,dice.com
+202,Data Analyst,Vaco Technology,Data Analyst,Kennesaw,GA,4/14/2023,Contract: W2,,,,,,dice.com
+204,Data Analyst,Michael Page International,Data Analyst,Manhattan,NY,4/5/2023,Contract: W2,$55 - $62 per hour,hourly,55000.0,62000.0,58500.0,dice.com
+205,Data Analyst,ITECCO Limited,Data Analyst,Austin,TX,4/5/2023,Full Time,$110000 - $140000 per annum,yearly,110000.0,140000.0,125000.0,dice.com
+206,Data Analyst,Randstad Technologies,Data Analyst,Boston,MA,4/2/2023,Full Time,"USD100,000 - USD120,000",yearly,100000.0,120000.0,110000.0,dice.com
+209,Data Analyst,Michael Page International,Data Analyst,Manhattan,NY,3/29/2023,Contract: W2,$55 - $62 per hour,hourly,55000.0,62000.0,58500.0,dice.com
+215,Data Analyst,"New Resources Consulting, LLC","B2B, Data Analyst, Data Governance, Relational Databases, Cloud, Power BI, Snowflake",Dane County,WI,4/12/2023,Full Time,Depends on Experience,,,,,dice.com
+216,Data Analyst,U.S. Tech Solutions Inc.,Data Analyst,,,3/24/2023,"Contract: W2, 4 Month(s)",Depends on Experience,,,,,dice.com
+219,Data Analyst,INNOVIT USA INC,"SSIS, SQL Server, t-SQL, Data Analyst, Data Models",,,4/3/2023,"Contract: Corp-To-Corp, 6",$50 ,hourly,50.0,,50.0,dice.com
+225,Data Analyst,R2 Info,Data Analyst,,,4/5/2023,Full Time,"$90,000 - $110,000",yearly,90000.0,110000.0,100000.0,dice.com
+226,Data Analyst,Honu Services,Data Analyst,Silver Spring,MD,3/18/2023,Full Time,,,,,,dice.com
+227,Data Analyst,Crescent Solutions Inc,"Data Analyst, SQL, Excel, Tableau, Power BI, Data Analysis, Data Mapping, Data Integration, Validate Data",Century City,CA,4/7/2023,Full Time,"$80,000+",,80000.0,,80000.0,dice.com
+229,Data Analyst,"Tek Ryders, LLC","Data Analyst, Ms Word, Tableau, Excel, SQL, Power BI",,,4/10/2023,"Contract: W2, 1 Year(s)",Depends on Experience,,,,,dice.com
+236,Data Analyst,Ascendion Inc.,"Data Analyst, SQL, Data Wrangling, Jira, Adobe, Tableau",San Antonio,TX,4/6/2023,"Contract: W2, Full-time",USD10.0000 - USD40.0000,hourly,10.0,40.0,25.0,dice.com
+238,Data Analyst,"Softpath System, LLC.","Data Analyst, Tableau, SQL Server, SQL, SSIS, t-SQL, Data Mining",Richmond,VA,3/31/2023,"Contract: W2, Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+240,Data Analyst,"Pyramid Consulting, Inc.","Data Analyst, Python, SQL, Tableau, AWS, Airflow, Shell Scripting",Richmond,VA,4/7/2023,"Contract: W2, 08 Month(s)",$40 - $45,yearly,40000.0,45000.0,42500.0,dice.com
+242,Data Analyst,CSG,"Data Analyst, Excel, Ms Office, Ms SQL, SQL, Data Analysis, Data Collection, Data Conversion, Data Management, Data Governance, Quality Improvement, Project Management, Business Analysis, Communication Skills",,,4/6/2023,Full Time,Depends on Experience,,,,,dice.com
+244,Data Analyst,Ascendion Inc.,"Remote, Data Analyst, SQL, Healthcare",Minneapolis,MN,3/21/2023,Full Time,USD50.0000 - USD60.0000,hourly,50.0,60.0,55.0,dice.com
+245,Data Analyst,"IT Trailblazers, LLC","Access, Data Analyst, Information Systems, Power BI, Public Health, Regulatory Compliance, System Analysis",Boston,MA,4/7/2023,"Contract: W2, 6 Month(s)",$20 - $50,hourly,20000.0,50000.0,35000.0,dice.com
+251,Data Scientist,"Engage Partners, Inc.",AI,New York,NY,3/27/2023,Full Time,Depends on Experience,,,,,dice.com
+252,Data Scientist,Darwin Recruitment,Data Engineering,Chicago,IL,4/15/2023,Full Time,$100000.00 - $120000.00 per annum,yearly,100000.0,120000.0,110000.0,dice.com
+253,Data Scientist,ABN TECH CORP,"Python, ML, Arima, Sarima",San Francisco,CA,4/14/2023,"Contract: W2, Independent, Corp-To-Corp, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+254,Data Scientist,"Technology Solutions Provider, Inc.","Data Science, Python",,,4/13/2023,Full Time,Depends on Experience,,,,,dice.com
+257,Data Scientist,Denken Solutions,"Classical ML, Statistics Structured, Performance Metrics, Data Pre-Processing, Neural or NLP, AB Testing",,WI,4/14/2023,"Contract: W2, Corp-To-Corp",USD Depends on Experience,,,,,dice.com
+260,Data Scientist,Amtex System Inc.,"Python, Java, AWS, GCP, C/C++, Data, Perl, BQ, Scientist, Vertex AI",San Jose,CA,4/13/2023,"Contract: Corp-To-Corp, 6 month(s)+",,,,,,dice.com
+262,Data Scientist,"Zachary Piper Solutions, LLC",,McLean,VA,4/15/2023,Full Time,,,,,,dice.com
+265,Data Scientist,Eliassen Group,,Charlotte,NC,4/13/2023,Contract: W2,,,,,,dice.com
+269,Data Scientist,Yash Solutions LLC,"Data Scientist, ML, Python, AWS, Sagemaker, Athena, Glue, SQL",Greenville,SC,2/28/2023,Contract: W2,Depends on Experience,,,,,dice.com
+270,Data Scientist,Kforce Technology Staffing,,Cincinnati,OH,4/13/2023,"Contract: W2, Temp",$47 - $51 hourly,hourly,47.0,51.0,49.0,dice.com
+271,Data Scientist,IT Concepts Inc,"Statistical Analysis, ML, ML Model, Natural Language Processing, NLP, SQL, Advanced Queries, Python, SAS, R Program, Enterprise Data, Data Manipulation, Data Visualization, Data Analytics, Tableau",Woodlawn,MD,3/2/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+272,Data Scientist,Kforce Technology Staffing,,Redmond,WA,4/11/2023,"Contract: W2, Temp",$55 - $70 hourly,hourly,55.0,70.0,62.5,dice.com
+273,Data Scientist,Peterson Technology Partners,Data Mining,,,3/31/2023,"Contract: Independent, W2, Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+277,Data Scientist,Indotronix International Corp,"Analytics, Python, SQL",Portland,OR,4/4/2023,"Contract: W2, 6 Month(s)",$100 - $110,hourly,100000.0,110000.0,105000.0,dice.com
+278,Data Scientist,CMCI,"Data Scientist, Business Objects, Cluster Analysis",,,3/6/2023,Full Time,Depends on Experience,,,,,dice.com
+279,Data Scientist,Apex Systems,,Richmond,VA,4/6/2023,Full Time,,,,,,dice.com
+281,Data Scientist,Motion Recruitment,,Los Angeles,CA,4/7/2023,Full Time,,,,,,dice.com
+286,Data Scientist,Xcelo Group Inc,,Dallas,TX,4/4/2023,"Full Time, Part Time, Contract: Independent, Corp-To-Corp, W2",,,,,,dice.com
+288,Data Scientist,Robert Half,"Python, Computer, SQL, Mathematical",Chicago,IL,4/14/2023,Full Time,$100000.00 to $125000.00 yearly,yearly,100000.0,125000.0,112500.0,dice.com
+291,Data Scientist,Dew Software,"Data Scientist, ML, Communication Skills, Data Architecture, Problem - Solving Skills, Python, Data Engineering",,,2/14/2023,Contract: W2,Depends on Experience,,,,,dice.com
+293,Data Scientist,"TSR Consulting Services, Inc.","Python, Matlab, Oracle, SQL, Consulting",Princeton,NJ,4/13/2023,"Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+297,Data Scientist,Odesus,"AI, AI, Python, R, SQL, DBMS, SAS, Stata, SPSS, Sagemaker, Tensorflow, Kafka, Spark, Hadoop",Los Angeles,CA,4/10/2023,Full Time,"$120,000 - $175,000",yearly,120000.0,175000.0,147500.0,dice.com
+298,Senior Data Scientist,Eliassen Group,,Herndon,VA,4/7/2023,Contract: W2,,,,,,dice.com
+300,Data Scientist,Jobot,,New York,NY,4/4/2023,Full Time,"$120,000 - $140,000 per year",yearly,120000.0,140000.0,130000.0,dice.com
+302,Data Scientist,Robert Half,"SQL, Excel, Python",Cherry Hill,NJ,4/9/2023,Full Time,$100000.00 to $120000.00 yearly,yearly,100000.0,120000.0,110000.0,dice.com
+303,Data Scientist,Motion Recruitment,,Houston ,TX,3/29/2023,Full Time,,,,,,dice.com
+304,Data Scientist,Maddisoft,,Houston,TX,3/28/2023,"Full Time, Part Time, Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+306,Data Scientist,Apex Systems,,Indianapolis,IN,3/28/2023,Full Time,,,,,,dice.com
+307,Data Scientist,ApTask,"Python, SQL, Bert, NLP",,,4/11/2023,"Contract: Corp-To-Corp, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+312,Data Scientist,E-Deft,,,,3/28/2023,"Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+314,Data Scientist,Novateur Technologies Inc.,"Statistical Modeling, Bayesian Model, Impact Model",Dallas,TX,4/4/2023,"Contract: Corp-To-Corp, Independent, W2, 6 Month(s)",Depends on Experience,,,,,dice.com
+318,Data Scientist,Global Data Consultants,,Carlisle,PA,3/24/2023,Full Time,,,,,,dice.com
+319,Senior Data Scientist,Aerospace Corporation,,Chantilly,VA,4/6/2023,Full Time,,,,,,dice.com
+325,Data Scientist,TEKHiring,ML,Austin,TX,3/17/2023,"Contract: W2, Independent, 1 Year(s)",$40 - $50,yearly,40000.0,50000.0,45000.0,dice.com
+326,Data Scientist,Robert Half,"Python, Mathematical",Johnston,IA,4/4/2023,"Contract: Independent, W2",,,,,,dice.com
+336,Data Scientist,Veear,"NLP, SQL, Tableau",Sunnyvale,CA,3/24/2023,"Contract: W2, Independent, Corp-To-Corp, 12 Month(s)",$45 - $90,yearly,45000.0,90000.0,67500.0,dice.com
+337,Data Scientist,Info Dinamica Inc,"ML, Image Filtering, Binary Morphology, Perspective / Affine Transformation, Edge Detection, Tracking., Regression, Unsupervised Learning, Pca.",Santa Clara,CA,3/28/2023,"Contract: Independent, W2, Corp-To-Corp, 13 day((s))",,,,,,dice.com
+339,Data Scientist,FirstParty,"Python, SQL",,,3/24/2023,"Contract: W2, 12 Month(s)",$70 - $90,yearly,70000.0,90000.0,80000.0,dice.com
+341,Data Scientist,MAXAR Technologies,,Arlington,VA,3/13/2023,Full Time,,,,,,dice.com
+344,Data Scientist,Apex Systems,,Lenexa,KS,3/14/2023,Full Time,,,,,,dice.com
+347,Data Scientist,"SystemDomain, Inc.",,Hartford,CT,3/9/2023,"Full Time, Part Time, Contract: W2, Corp-To-Corp, Independent",,,,,,dice.com
+354,Senior Data Scientist,Eliassen Group,,Charlotte,NC,3/16/2023,Contract: W2,,,,,,dice.com
+357,Data Scientist,AccruePartners,"Python, Domino",,,3/16/2023,Contract: W2,,,,,,dice.com
+359,Senior Data Scientist,Infinity Consulting Solutions,"Python, SQL, Application, Modeling, Web, Consulting, ICS, Accounting",Lisle,IL,3/23/2023,Full Time,,,,,,dice.com
+363,Data Scientist,Motion Recruitment,,Arlington,VA,3/3/2023,Full Time,,,,,,dice.com
+364,Data Scientist,Eliassen Group,,Stamford,CT,3/2/2023,Contract: W2,,,,,,dice.com
+365,Data Scientist,EKIN Solutions Inc,"ML, Hadoop Ecosystem, Spark",,,3/16/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+366,Senior Data Scientist,Centraprise Corp,Python,,,3/2/2023,"Full Time, Contract: W2",$DOE,,,,,dice.com
+371,Data Scientist,Robert Half,"IT, Engineering, Computer, SQL, Python, Analysis, Networks",Houston,TX,3/10/2023,"Contract: Independent, W2",$61.75 to $71.50 hourly,hourly,61.75,71.5,66.63,dice.com
+385,Senior Data Scientist,Infinity Consulting Solutions,"Analytical, Engineer, Computer, Research, Consulting, ICS, Accounting",Houston,TX,3/11/2023,Full Time,,,,,,dice.com
+387,Data Scientist,Motion Recruitment,,San Diego ,CA,2/15/2023,Full Time,,,,,,dice.com
+388,Data Scientist,Motion Recruitment,,Carlsbad,CA,2/15/2023,Full Time,,,,,,dice.com
+389,Data Scientist,Motion Recruitment,,Torrance ,CA,2/15/2023,Full Time,,,,,,dice.com
+390,Data Scientist,Motion Recruitment,,Los Angeles,CA,2/14/2023,Full Time,,,,,,dice.com
+391,Data Scientist,Motion Recruitment,,Irvine ,CA,2/14/2023,Full Time,,,,,,dice.com
+392,Data Scientist,SAIC,"Management, Systems, Python, NLP",Macdill AFB,FL,2/24/2023,Full Time,,,,,,dice.com
+393,Data Scientist,AccruePartners,"IT, Engineers, Engineering, Computer, Systems, Python, SQL",Fort Mill,SC,2/24/2023,Full Time,,,,,,dice.com
+395,Data Scientist,BNY Mellon Corporation,"Analysis, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+396,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Lake Mary,FL,2/23/2023,Full Time,,,,,,dice.com
+397,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+400,Data Engineer,Beacon Hill Technologies,Data Engineer,,,4/12/2023,Contract: W2,,,,,,dice.com
+401,Data Engineer,Experis,Data Engineer,Englewood,CO,4/12/2023,Contract: W2,$60 - $77 per hour,hourly,60000.0,77000.0,68500.0,dice.com
+402,Data Engineer,Randstad Technologies,Data Engineer,Addison,TX,4/14/2023,Contract: W2,USD58 - USD68,hourly,58000.0,68000.0,63000.0,dice.com
+403,Data Engineer,Randstad Technologies,Data Engineer,Atlanta,GA,4/10/2023,Contract: W2,USD40 - USD50,hourly,40000.0,50000.0,45000.0,dice.com
+404,Data Engineer,Randstad Technologies,Data Engineer,Atlanta,GA,4/10/2023,Contract: W2,USD40 - USD50,hourly,40000.0,50000.0,45000.0,dice.com
+405,Data Engineer,Precision Resource Group Limited,Data Engineer,,,4/9/2023,Full Time,$160000 - $180000 per annum,yearly,160000.0,180000.0,170000.0,dice.com
+406,Data Engineer,Infinite Computer Solutions (ICS),Data Engineer,Ashburn,VA,4/12/2023,Contract: W2,$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+407,Data Engineer,Mastech Digital,Data Engineer,Smithfield,RI,4/7/2023,"Contract: W2, Independent, 9+ month(s)",$65.00 - $75.00 per hour,hourly,65000.0,75000.0,70000.0,dice.com
+408,Data Engineer,Randstad Technologies,Data Engineer,Smithfield,RI,4/9/2023,Contract: W2,USD79 - USD80,hourly,79000.0,80000.0,79500.0,dice.com
+409,Data Engineer,Prontoux INC,Data Engineer,,,4/3/2023,Full Time,Depends on Experience,,,,,dice.com
+410,Data Engineer,Xplora Search Group,Data Engineer,,,4/3/2023,Full Time,"$100,000 - $125,000",yearly,100000.0,125000.0,112500.0,dice.com
+411,Data Engineer,Randstad Technologies,Data Engineer,Charlotte,NC,4/5/2023,Full Time,USD60 - USD70,hourly,60000.0,70000.0,65000.0,dice.com
+413,Data Engineer,Randstad Technologies,Data Engineer,Waukesha,WI,3/28/2023,Contract: W2,USD50 - USD60,hourly,50000.0,60000.0,55000.0,dice.com
+420,Data Engineer,Henderson Scott Limited,Data Engineer,Austin,TX,3/24/2023,Full Time,$150000.00 - $170000.00 per annum,yearly,150000.0,170000.0,160000.0,dice.com
+424,Data Engineer,M9 Consulting,"Data Engineer, GCP, ETL, Jenkins",Atlanta,GA,4/14/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+426,Data Engineer,DataFactZ,"Data Engineer, Teradata, AWS Redshift",Jersey City,NJ,4/5/2023,"Contract: W2, 12 Month(s)",Depends on Experience,,,,,dice.com
+430,Data Engineer,Factspan Inc,"Data Engineer, Scala, Python, AWS, Spark",,,4/11/2023,Full Time,Depends on Experience,,,,,dice.com
+441,Data Engineer,Technovert,"Data Engineering, Data Engineer, SQL, Datastage, ETL, Python, Data Management, Data Manipulation, Data Warehouse, Time Management, Problem - Solving Skills",,,4/12/2023,"Contract: Independent, W2, 12 Month(s)",Depends on Experience,,,,,dice.com
+451,Data Scientist,"Engage Partners, Inc.",AI,New York,NY,3/27/2023,Full Time,Depends on Experience,,,,,dice.com
+452,Data Scientist,Darwin Recruitment,Data Engineering,Chicago,IL,4/15/2023,Full Time,$100000.00 - $120000.00 per annum,yearly,100000.0,120000.0,110000.0,dice.com
+453,Data Scientist,ABN TECH CORP,"Python, ML, Arima, Sarima",San Francisco,CA,4/14/2023,"Contract: Corp-To-Corp, W2, Independent, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+454,Data Scientist,"Technology Solutions Provider, Inc.","Data Science, Python",,,4/13/2023,Full Time,Depends on Experience,,,,,dice.com
+458,Data Scientist,Denken Solutions,"Classical ML, Statistics Structured, Performance Metrics, Data Pre-Processing, Neural or NLP, AB Testing",,WI,4/14/2023,"Contract: Corp-To-Corp, W2",USD Depends on Experience,,,,,dice.com
+461,Data Scientist,Amtex System Inc.,"Python, Java, AWS, GCP, C/C++, Data, Perl, BQ, Scientist, Vertex AI",San Jose,CA,4/13/2023,"Contract: Corp-To-Corp, 6 month(s)+",,,,,,dice.com
+462,Data Scientist,"Zachary Piper Solutions, LLC",,McLean,VA,4/15/2023,Full Time,,,,,,dice.com
+466,Data Scientist,Eliassen Group,,Charlotte,NC,4/13/2023,Contract: W2,,,,,,dice.com
+468,Data Scientist,Yash Solutions LLC,"Data Scientist, ML, Python, AWS, Sagemaker, Athena, Glue, SQL",Greenville,SC,2/28/2023,Contract: W2,Depends on Experience,,,,,dice.com
+470,Data Scientist,IT Concepts Inc,"Statistical Analysis, ML, ML Model, Natural Language Processing, NLP, SQL, Advanced Queries, Python, SAS, R Program, Enterprise Data, Data Manipulation, Data Visualization, Data Analytics, Tableau",Woodlawn,MD,3/2/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+471,Data Scientist,Kforce Technology Staffing,,Cincinnati,OH,4/13/2023,"Contract: W2, Temp",$47 - $51 hourly,hourly,47.0,51.0,49.0,dice.com
+472,Data Scientist,Kforce Technology Staffing,,Redmond,WA,4/11/2023,"Contract: W2, Temp",$55 - $70 hourly,hourly,55.0,70.0,62.5,dice.com
+473,Data Scientist,Peterson Technology Partners,Data Mining,,,3/31/2023,"Contract: W2, Independent, Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+477,Data Scientist,Indotronix International Corp,"Analytics, Python, SQL",Portland,OR,4/4/2023,"Contract: W2, 6 Month(s)",$100 - $110,hourly,100000.0,110000.0,105000.0,dice.com
+478,Data Scientist,CMCI,"Data Scientist, Business Objects, Cluster Analysis",,,3/6/2023,Full Time,Depends on Experience,,,,,dice.com
+479,Data Scientist,Apex Systems,,Richmond,VA,4/6/2023,Full Time,,,,,,dice.com
+481,Data Scientist,Motion Recruitment,,Los Angeles,CA,4/7/2023,Full Time,,,,,,dice.com
+486,Data Scientist,Xcelo Group Inc,,Dallas,TX,4/4/2023,"Full Time, Part Time, Contract: W2, Independent, Corp-To-Corp",,,,,,dice.com
+488,Data Scientist,Robert Half,"Python, Computer, SQL, Mathematical",Chicago,IL,4/14/2023,Full Time,$100000.00 to $125000.00 yearly,yearly,100000.0,125000.0,112500.0,dice.com
+489,Data Scientist,Dew Software,"Data Scientist, ML, Communication Skills, Data Architecture, Problem - Solving Skills, Python, Data Engineering",,,2/14/2023,Contract: W2,Depends on Experience,,,,,dice.com
+493,Data Scientist,"TSR Consulting Services, Inc.","Python, Matlab, Oracle, SQL, Consulting",Princeton,NJ,4/13/2023,"Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+497,Data Scientist,Odesus,"AI, AI, Python, R, SQL, DBMS, SAS, Stata, SPSS, Sagemaker, Tensorflow, Kafka, Spark, Hadoop",Los Angeles,CA,4/10/2023,Full Time,"$120,000 - $175,000",yearly,120000.0,175000.0,147500.0,dice.com
+498,Senior Data Scientist,Eliassen Group,,Herndon,VA,4/7/2023,Contract: W2,,,,,,dice.com
+500,Data Scientist,Jobot,,New York,NY,4/4/2023,Full Time,"$120,000 - $140,000 per year",yearly,120000.0,140000.0,130000.0,dice.com
+502,Data Scientist,Robert Half,"SQL, Excel, Python",Cherry Hill,NJ,4/9/2023,Full Time,$100000.00 to $120000.00 yearly,yearly,100000.0,120000.0,110000.0,dice.com
+503,Data Scientist,Motion Recruitment,,Houston ,TX,3/29/2023,Full Time,,,,,,dice.com
+504,Data Scientist,Maddisoft,,Houston,TX,3/28/2023,"Full Time, Part Time, Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+506,Data Scientist,ApTask,"Python, SQL, Bert, NLP",,,4/11/2023,"Contract: Corp-To-Corp, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+507,Data Scientist,Apex Systems,,Indianapolis,IN,3/28/2023,Full Time,,,,,,dice.com
+512,Data Scientist,E-Deft,,,,3/28/2023,"Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+514,Data Scientist,Novateur Technologies Inc.,"Statistical Modeling, Bayesian Model, Impact Model",Dallas,TX,4/4/2023,"Contract: W2, Independent, Corp-To-Corp, 6 Month(s)",Depends on Experience,,,,,dice.com
+518,Data Scientist,Global Data Consultants,,Carlisle,PA,3/24/2023,Full Time,,,,,,dice.com
+520,Senior Data Scientist,Aerospace Corporation,,Chantilly,VA,4/6/2023,Full Time,,,,,,dice.com
+525,Data Scientist,TEKHiring,ML,Austin,TX,3/17/2023,"Contract: Independent, W2, 1 Year(s)",$40 - $50,yearly,40000.0,50000.0,45000.0,dice.com
+526,Data Scientist,Robert Half,"Python, Mathematical",Johnston,IA,4/4/2023,"Contract: Independent, W2",,,,,,dice.com
+536,Data Scientist,Veear,"NLP, SQL, Tableau",Sunnyvale,CA,3/24/2023,"Contract: Corp-To-Corp, W2, Independent, 12 Month(s)",$45 - $90,yearly,45000.0,90000.0,67500.0,dice.com
+538,Data Scientist,Info Dinamica Inc,"ML, Image Filtering, Binary Morphology, Perspective / Affine Transformation, Edge Detection, Tracking, Regression, Unsupervised Learning, Pca",Santa Clara,CA,3/28/2023,"Contract: Independent, Corp-To-Corp, W2, 13 day((s))",,,,,,dice.com
+539,Data Scientist,FirstParty,"Python, SQL",,,3/24/2023,"Contract: W2, 12 Month(s)",$70 - $90,yearly,70000.0,90000.0,80000.0,dice.com
+541,Data Scientist,MAXAR Technologies,,Arlington,VA,3/13/2023,Full Time,,,,,,dice.com
+544,Data Scientist,Apex Systems,,Lenexa,KS,3/14/2023,Full Time,,,,,,dice.com
+547,Data Scientist,"SystemDomain, Inc.",,Hartford,CT,3/9/2023,"Full Time, Part Time, Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+554,Senior Data Scientist,Eliassen Group,,Charlotte,NC,3/16/2023,Contract: W2,,,,,,dice.com
+556,Data Scientist,AccruePartners,"Python, Domino",,,3/16/2023,Contract: W2,,,,,,dice.com
+559,Senior Data Scientist,Infinity Consulting Solutions,"Python, SQL, Application, Modeling, Web, Consulting, ICS, Accounting",Lisle,IL,3/23/2023,Full Time,,,,,,dice.com
+563,Data Scientist,Eliassen Group,,Stamford,CT,3/2/2023,Contract: W2,,,,,,dice.com
+564,Data Scientist,EKIN Solutions Inc,"ML, Hadoop Ecosystem, Spark",,,3/16/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+565,Senior Data Scientist,Centraprise Corp,Python,,,3/2/2023,"Full Time, Contract: W2",$DOE,,,,,dice.com
+570,Data Scientist,Robert Half,"It, Engineering, Computer, SQL, Python, Analysis, Networks",Houston,TX,3/10/2023,"Contract: W2, Independent",$61.75 to $71.50 hourly,hourly,61.75,71.5,66.63,dice.com
+585,Senior Data Scientist,Infinity Consulting Solutions,"Analytical, Engineer, Computer, Research, Consulting, ICS, Accounting",Houston,TX,3/11/2023,Full Time,,,,,,dice.com
+586,Data Scientist,Motion Recruitment,,San Diego ,CA,2/15/2023,Full Time,,,,,,dice.com
+587,Data Scientist,Motion Recruitment,,Torrance ,CA,2/15/2023,Full Time,,,,,,dice.com
+588,Data Scientist,Motion Recruitment,,Carlsbad,CA,2/15/2023,Full Time,,,,,,dice.com
+589,Data Scientist,Motion Recruitment,,Irvine ,CA,2/14/2023,Full Time,,,,,,dice.com
+590,Data Scientist,Motion Recruitment,,Los Angeles,CA,2/14/2023,Full Time,,,,,,dice.com
+591,Data Scientist,SAIC,"Management, Systems, Python, NLP",Macdill AFB,FL,2/24/2023,Full Time,,,,,,dice.com
+592,Data Scientist,AccruePartners,"It, Engineers, Engineering, Computer, Systems, Python, SQL",Fort Mill,SC,2/24/2023,Full Time,,,,,,dice.com
+594,Data Scientist,BNY Mellon Corporation,"Analysis, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+595,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Lake Mary,FL,2/23/2023,Full Time,,,,,,dice.com
+596,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+597,Data Scientist,Apex Systems,,Bentonville,AR,2/10/2023,Full Time,,,,,,dice.com
+600,Data Scientist,Cohesive Technologies LLC,Data Scientist,Mountain View,CA,4/14/2023,"Contract: Corp-To-Corp, Independent, W2, Long term",,,,,,dice.com
+601,Data Scientist,Clearbridge Technology Group,Data Scientist,Stamford,CT,4/12/2023,"Contract: Corp-To-Corp, Independent, W2, 6 Month(s)",Depends on Experience,,,,,dice.com
+602,Data Scientist,Randstad Technologies,Data Scientist,Saint Louis,MO,4/15/2023,Contract: W2,USD54 - USD64,hourly,54000.0,64000.0,59000.0,dice.com
+603,Data Scientist,Randstad Technologies,Data Scientist,Saint Louis,MO,4/15/2023,Contract: W2,USD54 - USD64,hourly,54000.0,64000.0,59000.0,dice.com
+604,Data Scientist,Randstad Technologies,Data Scientist,Saint Louis,MO,4/15/2023,Contract: W2,USD61 - USD81,hourly,61000.0,81000.0,71000.0,dice.com
+605,Data Scientist,Randstad Technologies,Data Scientist,Charlotte,NC,4/12/2023,Contract: W2,USD71 - USD81,hourly,71000.0,81000.0,76000.0,dice.com
+606,Data Scientist,Randstad Technologies,Data Scientist,Redmond,WA,4/10/2023,Contract: W2,USD39 - USD49,hourly,39000.0,49000.0,44000.0,dice.com
+608,Data Scientist,Randstad Technologies,Data Scientist,Portland,OR,4/6/2023,Contract: W2,USD105 - USD109,hourly,105000.0,109000.0,107000.0,dice.com
+609,Data Scientist,Ascendion Inc.,"Data Scientist, Python, R, SQL, Data Mining",Greenwood Village,CO,4/13/2023,"Contract: W2, Full-time",USD70.0000 - USD75.0000,hourly,70.0,75.0,72.5,dice.com
+610,Data Scientist,E-Deft,"Claims, Healthcare",,,4/13/2023,"Contract: Corp-To-Corp, Independent, W2",,,,,,dice.com
+611,Data Scientist,Phaidon International,Data Scientist,,TX,3/30/2023,Full Time,$90000 - $100000 per annum,yearly,90000.0,100000.0,95000.0,dice.com
+612,Data Scientist,U.S. Tech Solutions Inc.,Data Science,,,4/5/2023,"Contract: W2, 4 Month(s)",Depends on Experience,,,,,dice.com
+613,Data Scientist,QATOS LLC,Data Scientist,,,3/29/2023,"Contract: Corp-To-Corp, + Month(s)",,,,,,dice.com
+614,Data Scientist,Cynet Systems,"Python, AI, DBMS",Los Angeles,CA,4/12/2023,Full Time,Depends on Experience,,,,,dice.com
+615,Data Scientist,Cynet Systems,Data Scientist,Lawrenceville,NJ,4/12/2023,"Contract: Independent, W2, Corp-To-Corp",Depends on Experience,,,,,dice.com
+616,Data Scientist,Blue Rose Technologies LLC,"Data Scientist, GCP, Google Cloud, BQ, Python",,,4/13/2023,"Contract: Independent, W2, Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+617,Data Scientist,Decca Consulting,"Data Scientist, Excel, Power BI, Time Management, Build Models, Collaborate, Data Dictionary, Data Engineering, Data Modeling",Houston,TX,4/12/2023,"Contract: W2, 6 Month(s)",$25.33 - $25.33,hourly,25.33,25.33,25.33,dice.com
+618,Data Scientist,ZEN3 INFOSOLUTIONS AMERICA INC,"Data Scientist, Power BI, SQL, Python, UX",Redmond,WA,4/12/2023,Full Time,"$80,000 - $120,000",yearly,80000.0,120000.0,100000.0,dice.com
+619,Data Scientist,Randstad Technologies,Data Scientist,Bentonville,AR,3/28/2023,Contract: W2,USD76 - USD96,hourly,76000.0,96000.0,86000.0,dice.com
+621,Data Scientist,Xoriant Corporation,"Data Scientist, Unix, Python, Data Analysis",Tampa,FL,4/11/2023,"Contract: W2, 12 Month(s)",Depends on Experience,,,,,dice.com
+622,Data Scientist,Mansai  Corporation,"Azure, Azure Data Factory, Azure SQL",Baltimore,MD,4/14/2023,"Contract: Corp-To-Corp, 1 Year(s)",$55 - $60,yearly,55000.0,60000.0,57500.0,dice.com
+623,Data Scientist,Nigel Frank International,Data Scientist,Springfield,VA,3/23/2023,Full Time,$170000 - $180000 per annum,yearly,170000.0,180000.0,175000.0,dice.com
+624,Data Scientist,LatentView Analytics Corporation,"Data Scientist, MMM, Marketing Mix Model",San Jose,CA,4/6/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+625,Data Scientist,WinMax Systems Corporation,Data Scientist,,,3/22/2023,"Contract: W2, 18 Month(s)",Depends on Experience,,,,,dice.com
+626,Data Scientist,Metasys Technologies,"Data Scientist, Utility, Python, SQL, ML",,,4/5/2023,"Contract: W2, 6 Month(s)",$90 - $100,yearly,90000.0,100000.0,95000.0,dice.com
+630,Data Scientist,"HireTalent, LLC","Data Scientist, NLP Models, AI Development, Java, Python",New York,NY,3/31/2023,"Contract: W2, 3 Month(s)",Depends on Experience,,,,,dice.com
+632,Data Scientist,Xoriant Corporation,"Data Scientist, SQL, Text Mining, Researching, Metadata, Quality Improvement",,,3/30/2023,"Contract: Corp-To-Corp, W2, Independent, 24 Month(s)",Depends on Experience,,,,,dice.com
+636,Data Scientist,"Engage Partners, Inc.","Data Scientist, Python, Analytical Skills, ML, Azure, AWS",New York,NY,3/28/2023,Full Time,"$150,000 - $175,000",yearly,150000.0,175000.0,162500.0,dice.com
+640,Data Scientist,Talent Navigation Experts,Data Science,Denver,CO,4/10/2023,Full Time,"$105,000 - $160,000",yearly,105000.0,160000.0,132500.0,dice.com
+641,Data Scientist,IT Solutions,"Data Analyst, Developer, Data Scientist, Creating Statistical or Machine Models",,,3/30/2023,"Contract: Corp-To-Corp, W2",$Open,,,,,dice.com
+643,Data Scientist,Carman Solutions Group,ML,,,3/22/2023,"Contract: W2, Independent, 12 Month(s)",Up to $60,hourly,,60.0,60.0,dice.com
+651,Data Scientist,"Engage Partners, Inc.",AI,New York,NY,3/27/2023,Full Time,Depends on Experience,,,,,dice.com
+652,Data Scientist,Darwin Recruitment,Data Engineering,Chicago,IL,4/15/2023,Full Time,$100000.00 - $120000.00 per annum,yearly,100000.0,120000.0,110000.0,dice.com
+653,Data Scientist,ABN TECH CORP,"Python, ML, Arima, Sarima",San Francisco,CA,4/14/2023,"Contract: Corp-To-Corp, W2, Independent, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+654,Data Scientist,"Technology Solutions Provider, Inc.","Data Science, Python",,,4/13/2023,Full Time,Depends on Experience,,,,,dice.com
+658,Data Scientist,Denken Solutions,"Classical ML, Statistics Structured, Performance Metrics, Data Pre-Processing, Neural or NLP, AB Testing",,WI,4/14/2023,"Contract: Corp-To-Corp, W2",USD Depends on Experience,,,,,dice.com
+660,Data Scientist,Amtex System Inc.,"Python, Java, AWS, GCP, C/C++, Data, Perl, BQ, Scientist, Vertex AI",San Jose,CA,4/13/2023,"Contract: Corp-To-Corp, 6 month(s)+",,,,,,dice.com
+662,Data Scientist,"Zachary Piper Solutions, LLC",,McLean,VA,4/15/2023,Full Time,,,,,,dice.com
+665,Data Scientist,Eliassen Group,,Charlotte,NC,4/13/2023,Contract: W2,,,,,,dice.com
+669,Data Scientist,Yash Solutions LLC,"Data Scientist, ML, Python, AWS, Sagemaker, Athena, Glue, SQL",Greenville,SC,2/28/2023,Contract: W2,Depends on Experience,,,,,dice.com
+670,Data Scientist,Kforce Technology Staffing,,Cincinnati,OH,4/13/2023,"Contract: W2, Temp",$47 - $51 hourly,hourly,47.0,51.0,49.0,dice.com
+671,Data Scientist,IT Concepts Inc,"Statistical Analysis, ML, ML Model, Natural Language Processing, NLP, SQL, Advanced Queries, Python, SAS, R Program, Enterprise Data, Data Manipulation, Data Visualization, Data Analytics, Tableau",Woodlawn,MD,3/2/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+672,Data Scientist,Kforce Technology Staffing,,Redmond,WA,4/11/2023,"Contract: W2, Temp",$55 - $70 hourly,hourly,55.0,70.0,62.5,dice.com
+673,Data Scientist,Peterson Technology Partners,Data Mining,,,3/31/2023,"Contract: W2, Independent, Corp-To-Corp, 12 Month(s)",Depends on Experience,,,,,dice.com
+677,Data Scientist,Indotronix International Corp,"Analytics, Python, SQL",Portland,OR,4/4/2023,"Contract: W2, 6 Month(s)",$100 - $110,hourly,100000.0,110000.0,105000.0,dice.com
+678,Data Scientist,CMCI,"Data Scientist, Business Objects, Cluster Analysis",,,3/6/2023,Full Time,Depends on Experience,,,,,dice.com
+679,Data Scientist,Apex Systems,,Richmond,VA,4/6/2023,Full Time,,,,,,dice.com
+681,Data Scientist,Motion Recruitment,,Los Angeles,CA,4/7/2023,Full Time,,,,,,dice.com
+686,Data Scientist,Xcelo Group Inc,,Dallas,TX,4/4/2023,"Full Time, Part Time, Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+688,Data Scientist,Robert Half,"Python, Computer, SQL, Mathematical",Chicago,IL,4/14/2023,Full Time,$100000.00 to $125000.00 yearly,yearly,100000.0,125000.0,112500.0,dice.com
+689,Data Scientist,Dew Software,"Data Scientist, ML, Communication Skills, Data Architecture, Problem - Solving Skills, Python, Data Engineering",,,2/14/2023,Contract: W2,Depends on Experience,,,,,dice.com
+693,Data Scientist,"TSR Consulting Services, Inc.","Python, Matlab, Oracle, SQL, Consulting",Princeton,NJ,4/13/2023,"Contract: Independent, W2, Corp-To-Corp",,,,,,dice.com
+697,Senior Data Scientist,Eliassen Group,,Herndon,VA,4/7/2023,Contract: W2,,,,,,dice.com
+698,Data Scientist,Odesus,"AI, AI, Python, R, SQL, DBMS, SAS, Stata, SPSS, Sagemaker, Tensorflow, Kafka, Spark, Hadoop",Los Angeles,CA,4/10/2023,Full Time,"$120,000 - $175,000",yearly,120000.0,175000.0,147500.0,dice.com
+700,Data Scientist,Jobot,,New York,NY,4/4/2023,Full Time,"$120,000 - $140,000 per year",yearly,120000.0,140000.0,130000.0,dice.com
+702,Data Scientist,Robert Half,"SQL, Excel, Python",Cherry Hill,NJ,4/9/2023,Full Time,$100000.00 to $120000.00 yearly,yearly,100000.0,120000.0,110000.0,dice.com
+703,Data Scientist,Motion Recruitment,,Houston ,TX,3/29/2023,Full Time,,,,,,dice.com
+704,Data Scientist,Maddisoft,,Houston,TX,3/28/2023,"Full Time, Part Time, Contract: Independent, W2, Corp-To-Corp",,,,,,dice.com
+706,Data Scientist,Apex Systems,,Indianapolis,IN,3/28/2023,Full Time,,,,,,dice.com
+707,Data Scientist,ApTask,"Python, SQL, Bert, NLP",,,4/11/2023,"Contract: Corp-To-Corp, 12 Month(s)",$60 - $70,yearly,60000.0,70000.0,65000.0,dice.com
+711,Data Scientist,E-Deft,,,,3/28/2023,"Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+715,Data Scientist,Novateur Technologies Inc.,"Statistical Modeling, Bayesian Model, Impact Model",Dallas,TX,4/4/2023,"Contract: W2, Independent, Corp-To-Corp, 6 Month(s)",Depends on Experience,,,,,dice.com
+718,Data Scientist,Global Data Consultants,,Carlisle,PA,3/24/2023,Full Time,,,,,,dice.com
+719,Senior Data Scientist,Aerospace Corporation,,Chantilly,VA,4/6/2023,Full Time,,,,,,dice.com
+725,Data Scientist,Motion Recruitment,,Columbus,OH,3/21/2023,Full Time,,,,,,dice.com
+726,Data Scientist,Robert Half,"Python, Mathematical",Johnston,IA,4/4/2023,"Contract: W2, Independent",,,,,,dice.com
+727,Data Scientist,TEKHiring,ML,Austin,TX,3/17/2023,"Contract: W2, Independent, 1 Year(s)",$40 - $50,yearly,40000.0,50000.0,45000.0,dice.com
+737,Data Scientist,Veear,"NLP, SQL, Tableau",Sunnyvale,CA,3/24/2023,"Contract: W2, Independent, Corp-To-Corp, 12 Month(s)",$45 - $90,yearly,45000.0,90000.0,67500.0,dice.com
+739,Data Scientist,Info Dinamica Inc,"ML, Image Filtering, Binary Morphology, Perspective / Affine Transformation, Edge Detection, Tracking., Regression, Unsupervised Learning, Pca.",Santa Clara,CA,3/28/2023,"Contract: W2, Independent, Corp-To-Corp, 13 day((s))",,,,,,dice.com
+740,Data Scientist,FirstParty,"Python, SQL",,,3/24/2023,"Contract: W2, 12 Month(s)",$70 - $90,yearly,70000.0,90000.0,80000.0,dice.com
+743,Data Scientist,MAXAR Technologies,,Arlington,VA,3/13/2023,Full Time,,,,,,dice.com
+746,Data Scientist,Apex Systems,,Lenexa,KS,3/14/2023,Full Time,,,,,,dice.com
+749,Data Scientist,"SystemDomain, Inc.",,Hartford,CT,3/9/2023,"Full Time, Part Time, Contract: Corp-To-Corp, W2, Independent",,,,,,dice.com
+756,Senior Data Scientist,Eliassen Group,,Charlotte,NC,3/16/2023,Contract: W2,,,,,,dice.com
+759,Data Scientist,AccruePartners,"Python, Domino",,,3/16/2023,Contract: W2,,,,,,dice.com
+761,Senior Data Scientist,Infinity Consulting Solutions,"Python, SQL, Application, Modeling, Web, Consulting, ICS, Accounting",Lisle,IL,3/23/2023,Full Time,,,,,,dice.com
+765,Data Scientist,Eliassen Group,,Stamford,CT,3/2/2023,Contract: W2,,,,,,dice.com
+766,Data Scientist,EKIN Solutions Inc,"ML, Hadoop Ecosystem, Spark",,,3/16/2023,Full Time,"$100,000 - $140,000",yearly,100000.0,140000.0,120000.0,dice.com
+767,Senior Data Scientist,Centraprise Corp,Python,,,3/2/2023,"Full Time, Contract: W2",$DOE,,,,,dice.com
+772,Data Scientist,Robert Half,"It, Engineering, Computer, SQL, Python, Analysis, Networks",Houston,TX,3/10/2023,"Contract: W2, Independent",$61.75 to $71.50 hourly,hourly,61.75,71.5,66.63,dice.com
+787,Senior Data Scientist,Infinity Consulting Solutions,"Analytical, Engineer, Computer, Research, Consulting, ICS, Accounting",Houston,TX,3/11/2023,Full Time,,,,,,dice.com
+788,Data Scientist,Motion Recruitment,,San Diego ,CA,2/15/2023,Full Time,,,,,,dice.com
+789,Data Scientist,Motion Recruitment,,Carlsbad,CA,2/15/2023,Full Time,,,,,,dice.com
+790,Data Scientist,Motion Recruitment,,Torrance ,CA,2/15/2023,Full Time,,,,,,dice.com
+791,Data Scientist,Motion Recruitment,,Irvine ,CA,2/14/2023,Full Time,,,,,,dice.com
+792,Data Scientist,Motion Recruitment,,Los Angeles,CA,2/14/2023,Full Time,,,,,,dice.com
+793,Data Scientist,SAIC,"Management, Systems, Python, NLP",Macdill AFB,FL,2/24/2023,Full Time,,,,,,dice.com
+794,Data Scientist,AccruePartners,"It, Engineers, Engineering, Computer, Systems, Python, SQL",Fort Mill,SC,2/24/2023,Full Time,,,,,,dice.com
+796,Data Scientist,BNY Mellon Corporation,"Analysis, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+797,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Pittsburgh,PA,2/23/2023,Full Time,,,,,,dice.com
+798,Data Scientist,BNY Mellon Corporation,"Computer, Programming, Python, Java, Matlab, SQL, Foundation",Lake Mary,FL,2/23/2023,Full Time,,,,,,dice.com
+799,Data Scientist,Apex Systems,,Bentonville,AR,2/10/2023,Full Time,,,,,,dice.com

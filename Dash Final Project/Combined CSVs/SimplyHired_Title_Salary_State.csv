@@ -1,0 +1,151 @@
+Title,State,Salary Type,Salary
+Data Engineer,CA,Hourly,$35.00
+Data Engineer,TX,Hourly,$52.50
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,VA,Yearly,"$80,000.00"
+Data Engineer,MN,Hourly,$55.00
+Data Engineer,TX,Hourly,$67.50
+Data Engineer,DC,Hourly,$70.00
+Data Engineer,VA,Yearly,"$110,000.00"
+Data Engineer,PA,Yearly,"$82,500.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,TX,Hourly,$67.50
+Data Engineer,MN,Yearly,"$125,000.00"
+Data Engineer,CO,Yearly,"$132,500.00"
+Data Engineer,DC,Hourly,$70.00
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,TX,Hourly,$61.32
+Data Engineer,FL,Yearly,"$124,652.50"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,TX,Hourly,$67.50
+Data Engineer,WA,Yearly,"$68,900.00"
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,TX,Hourly,$61.32
+Data Engineer,TN,Yearly,"$92,150.00"
+Data Engineer,KY,Yearly,"$55,550.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,TX,Hourly,$67.50
+Data Engineer,NY,Yearly,"$82,200.00"
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,TX,Hourly,$61.32
+Data Engineer,GA,Hourly,$62.50
+Data Engineer,ID,Yearly,"$88,700.00"
+Data Engineer,VA,Yearly,"$110,000.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,TX,Hourly,$61.32
+Data Engineer,PA,Yearly,"$132,500.00"
+Data Engineer,GA,Hourly,$62.50
+Data Engineer,IL,Yearly,"$50,450.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,GA,Hourly,$62.50
+Data Engineer,PA,Yearly,"$82,500.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,OH,Yearly,"$48,000.00"
+Data Engineer,CA,Yearly,"$135,000.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,CO,Yearly,"$132,500.00"
+Data Engineer,OR,Hourly,$83.00
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Engineer,CA,Hourly,$62.50
+Data Engineer,USA,Yearly,"$175,000.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Data Analyst,VA,Yearly,"$67,500.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Data Analyst,VA,Yearly,"$67,500.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Data Analyst,PA,Yearly,"$67,300.00"
+Data Analyst,VA,Yearly,"$67,500.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Data Analyst,MI,Yearly,"$47,500.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Data Analyst,VA,Yearly,"$67,500.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Data Analyst,IA,Yearly,"$59,250.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,IL,Yearly,"$74,300.00"
+Data Analyst,FL,Yearly,"$110,000.00"
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,NY,Yearly,"$75,000.00"
+Entry Level Data Analyst,NY,Yearly,"$63,579.00"
+Entry Level Data Analyst,VA,Yearly,"$55,000.00"
+Data Analyst,WA,Hourly,$57.50
+Data Analyst,IL,Yearly,"$60,250.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,OH,Hourly,$65.00
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,GA,Hourly,$85.00
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Engineer,MN,Yearly,"$125,000.00"
+Data Engineer,CO,Yearly,"$132,500.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Analyst,NY,Yearly,"$105,000.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,FL,Hourly,$87.50
+Data Architect,CA,Yearly,"$130,000.00"
+Data Architect,FL,Hourly,$87.50
+Data Scientist,KS,Yearly,"$77,400.00"
+Data Engineer,VA,Yearly,"$110,000.00"
+Data Scientist,AZ,Yearly,"$48,400.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,OH,Yearly,"$120,000.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,CA,Yearly,"$155,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,TX,Yearly,"$82,350.00"
+Data Engineer,IL,Yearly,"$50,450.00"
+Data Scientist,MD,Yearly,"$195,000.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,NY,Yearly,"$126,000.00"
+Data Scientist,NY,Yearly,"$117,500.00"
+Data Scientist,TX,Yearly,"$102,500.00"
+Data Scientist,TX,Yearly,"$49,200.00"
+Data Scientist,NY,Yearly,"$126,000.00"
+Data Scientist,NY,Yearly,"$117,500.00"
+Data Scientist,NY,Yearly,"$56,000.00"
